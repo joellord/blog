@@ -1,0 +1,962 @@
+[
+  {
+    "time": "11-6-2019",
+    "title": "From Caesar Cipher to Quantum Cryptography",
+    "conference": "Øredev",
+    "location": "Malmö, SE",
+    "movie": "",
+    "slides": "http://ezurl.to/crypto"
+  }, 
+  {
+    "time": "10-25-2019",
+    "title": "From Caesar Cipher to Quantum Cryptography",
+    "conference": "php[world]",
+    "location": "Washington, DC, US",
+    "movie": "",
+    "slides": "http://ezurl.to/crypto"
+  },
+  {
+    "time": "10-24-2019",
+    "title": "My Browser Does What?",
+    "conference": "International Javascript Conference",
+    "location": "Munich, DE",
+    "movie": "",
+    "slides": ""
+  },  
+  {
+    "time": "10-23-2019",
+    "title": "Hacking JWTs",
+    "conference": "International Javascript Conference",
+    "location": "Munich, DE",
+    "movie": "",
+    "slides": "http://ezurl.to/hackingjwt"
+  },  
+  {
+    "time": "10-18-2019",
+    "title": "O-What? An Intro To OAuth For Developers",
+    "conference": "Connect.Tech",
+    "location": "Atlanta, GA, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },  
+  {
+    "time": "10-17-2019",
+    "title": "WTH is a JWT",
+    "conference": "Connect.Tech",
+    "location": "Atlanta, GA, US",
+    "movie": "",
+    "slides": "http://ezurl.to/hackingjwt"
+  },  
+  {
+    "time": "10-12-2019",
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Central Wisconsin Conference",
+    "location": "Stevens Point, WI, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },  
+  {
+    "time": "10-7-2019",
+    "title": "Je me fiche de la securite (vous devriez aussi)",
+    "conference": "Conference Web Saguenay",
+    "location": "Saguenay, QC, CA",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  }, 
+  {
+    "time": "10-5-2019",
+    "title": "From Caesar Cipher to Quantum Cryptography",
+    "conference": "DogFoodCon",
+    "location": "Columbus, OH, US",
+    "movie": "",
+    "slides": "http://ezurl.to/crypto"
+  },  
+  {
+    "time": "09-28-2019",
+    "title": "Hacking JWTs",
+    "conference": "Vermont Code Camp",
+    "location": "Burlington, VT, US",
+    "movie": "",
+    "slides": "http://ezurl.to/hackingjwt"
+  },
+  {
+    "time": "09-12-2019",
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Prairie.Code()",
+    "location": "Des Moines, IA, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },  
+  {
+    "time": "09-12-2019",
+    "title": "Hacking JWTs",
+    "conference": "Prairie.Code()",
+    "location": "Des Moines, IA, US",
+    "movie": "",
+    "slides": "http://ezurl.to/hackingjwt"
+  },  
+  {
+    "time": "09-11-2019",
+    "title": "From Zero To App: A React Workshop",
+    "conference": "Prairie.Code()",
+    "location": "Des Moines, IA, US",
+    "movie": "",
+    "slides": ""
+  },  
+  {
+    "time": "09-6-2019",
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Music City Code",
+    "location": "Nashville, TN, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },  
+  {
+    "time": "08-21-2019",
+    "title": "From Caesar Cipher to Quantum Cryptography",
+    "conference": "CoderCruise",
+    "location": "Fort Lauderdale, FL, US",
+    "movie": "",
+    "slides": "http://ezurl.to/crypto"
+  },  
+  {
+    "time": "08-15-2019",
+    "title": "Post-Burnout Thoughts",
+    "conference": "Nebraska.Code()",
+    "location": "Lincoln, NE, US",
+    "movie": "",
+    "slides": ""
+  }, 
+  {
+    "time": "08-14-2019",
+    "title": "From Zero to App: A React Workshop",
+    "conference": "Nebraska.Code()",
+    "location": "Lincoln, NE, US",
+    "movie": "",
+    "slides": "https://ezurl.to/react-workshop-slides"
+  },
+  {
+    "time": "08-8-2019",
+    "title": "O-What? An Intro To OAuth For Developers",
+    "conference": "MidwestJS",
+    "location": "Minneapolis, MN, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },
+  {
+    "time": "08-2-2019",
+    "title": "From Caesar Cipher to Quantum Cryptography",
+    "conference": "Mid Atlantic Develper Conference",
+    "location": "Baltimore, MD, US",
+    "movie": "",
+    "slides": "http://ezurl.to/crypto"
+  },  
+  {
+    "time": "07-20-2019",
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "OdessaJS",
+    "location": "Odessa, UA",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },
+  {
+    "time": "06-28-2019",
+    "title": "Choose Your Own Talk: The Mystery Of Identity City",
+    "conference": "Erie Day Of Code",
+    "location": "Erie, PA, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": "06-7-2019",
+    "title": "Post Burnout Thoughts",
+    "conference": "Dutch PHP Conference",
+    "location": "Amsterdam, NE",
+    "movie": "",
+    "slides": "https://community.auth0.com/t/dutch-php-conference-amsterdam-netherlands-june-6-2019-to-june-8-2019/21729"
+  },
+  {
+    "time": 1559793600000,
+    "title": "From Zero to App: A React Workshop",
+    "conference": "Dutch PHP Conference",
+    "location": "Amsterdam, NE",
+    "movie": "",
+    "slides": "https://ezurl.to/react-workshop-slides"
+  },
+  {
+    "time": "05-31-2019",
+    "title": "Choose Your Own Talk: The Mystery Of Identity City",
+    "conference": "Beer City Code",
+    "location": "Grand Rapids, MI, US",
+    "movie": "",
+    "slides": "https://community.auth0.com/t/beer-city-code-grand-rapids-mi-u-s-a-may-31-2019-to-june-1-2019/22898/2"
+  },
+  {
+    "time": "05-10-2019",
+    "title": "I Don’t Care About Security (And Neither Should You)",
+    "conference": "CharlestonJS",
+    "location": "Charleston, SC, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },
+  {
+    "time": "05-9-2019",
+    "title": "I Don’t Care About Security (And Neither Should You)",
+    "conference": "Node.js Philly",
+    "location": "Philadelphia, PA, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },
+  {
+    "time": "05-8-2019",
+    "title": "Learning Machine Learning",
+    "conference": "NomadJS",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/learning-machine-learning-123087812"
+  },
+  {
+    "time": "05-7-2019",
+    "title": "WTH is a JWT",
+    "conference": "Boston Node",
+    "location": "Boston, MA, US",
+    "movie": "",
+    "slides": "https://ezurl.to/jwt"
+  },
+  {
+    "time": "04-26-2019",
+    "title": "Hacking JWTs",
+    "conference": "Stir Trek",
+    "location": "Columbus, OH, US",
+    "movie": "",
+    "slides": "https://ezurl.to/hackingjwt"
+  },
+  {
+    "time": 1556190093423,
+    "title": "WTH is a JWT",
+    "conference": "Indy.Code()",
+    "location": "Indianapolis, IN, US",
+    "movie": "",
+    "slides": "https://ezurl.to/jwt"
+  },
+  {
+    "time": 1556190093423,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Indy.Code()",
+    "location": "Indianapolis, IN, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },
+  {
+    "time": 1556103676802,
+    "title": "From Zero to App: A React Workshop",
+    "conference": "Indy.Code()",
+    "location": "Indianapolis, IN, US",
+    "movie": "",
+    "slides": "https://ezurl.to/react-workshop-slides"
+  },
+  {
+    "time": 1555128000000,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Twin Cities Code Camp",
+    "location": "Minneapolis, MN, US",
+    "movie": "",
+    "slides": "https://ezurl.to/idontcare"
+  },
+  {
+    "time": 1554894066520,
+    "title": "Je me fiche de la securite (vous devriez aussi)",
+    "conference": "Web a Quebec",
+    "location": "Quebec City, QC, CA",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1554285159090,
+    "title": "From Zero to App: A React Workshop",
+    "conference": "FrontCon",
+    "location": "Riga, LV",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1553313600000,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "PyCon SK",
+    "location": "Bratislava, SK",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-137810778"
+  },
+  {
+    "time": 1553227200000,
+    "title": "Build a Passwordless Authentication Server",
+    "conference": "PyCon SK",
+    "location": "Bratislava, SK",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1552658876618,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Confoo",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1552572476618,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "Confoo",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/forgot-password-yes-i-did-134761042"
+  },
+  {
+    "time": 1551798476618,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "BocaJS",
+    "location": "Boca Raton, FL, US",
+    "movie": "https://www.youtube.com/watch?v=tAQk_ATgg1M",
+    "slides": "https://www.slideshare.net/JoelLord4/forgot-password-yes-i-did-134761042"
+  },
+  {
+    "time": 1551539276618,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "South Florida Code Camp",
+    "location": "Fort Lauderdale, FL, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1550832673707,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "DevFest du Bout du Monde",
+    "location": "Brest, FR",
+    "movie": "https://www.youtube.com/watch?v=zG_Ptn4miiA",
+    "slides": "https://www.slideshare.net/JoelLord4/mot-de-passe-oubli-absolument"
+  },
+  {
+    "time": 1548845417173,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Detroit.js",
+    "location": "Detroit, MI, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1547046476618,
+    "title": "Asynchonicity: concurrency. A tale of",
+    "conference": "Codemash",
+    "location": "Sandusky, OH, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/asynchronicity-concurrency-a-tale-of"
+  },
+  {
+    "time": 1544022476618,
+    "title": "WTH is a JWT",
+    "conference": "Pittsburgh Javascript",
+    "location": "Pittsburgh, PA, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1543936076618,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "Pittsburgh Code Supply",
+    "location": "Pittsburgh, PA, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/forgot-password-yes-i-did-134761042"
+  },
+  {
+    "time": 1542294476618,
+    "title": "Learning Machine Learning",
+    "conference": "php[world]",
+    "location": "Washington, DC, US",
+    "movie": "",
+    "slides": "http://machine-learning.tech"
+  },
+  {
+    "time": 1542208076618,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "php[world]",
+    "location": "Washington, DC, US",
+    "movie": "",
+    "slides": "http://passwordless.tech"
+  },
+  {
+    "time": 1540908476618,
+    "title": "WTH is a JWT",
+    "conference": "require('lx')",
+    "location": "Lisboa, PT",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/wth-is-a-jwt-120484452"
+  },
+  {
+    "time": 1540208396521,
+    "title": "WTH is a JWT",
+    "conference": "All Things Open",
+    "location": "Raleigh, NC, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/wth-is-a-jwt-120484452"
+  },
+  {
+    "time": 1539949196521,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Connect.Tech",
+    "location": "Atlanta, GA, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1539803313688,
+    "title": "OAuth in practice: Forgot Password? Yes I Did!",
+    "conference": "International Javascript Conference",
+    "location": "Munich, DE",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/forgot-password-yes-i-did-123085205"
+  },
+  {
+    "time": 1539716913688,
+    "title": "From Zero to App - A React Workshop",
+    "conference": "International Javascript Conference",
+    "location": "Munich, DE",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1538779165337,
+    "title": "A Token Walks Into A SPA",
+    "conference": "Little Rock Tech Fest",
+    "location": "Little Rock, AR, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1538653196521,
+    "title": "Surviving Burnout",
+    "conference": "API City",
+    "location": "Bremerton, WA, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1538566796521,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "API City",
+    "location": "Bremerton, WA, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/forgot-password-yes-i-did-123085205"
+  },
+  {
+    "time": 1537961996521,
+    "title": "Powerful JSON Web Tokens (JWT)",
+    "conference": "API Con",
+    "location": "Berlin, DE",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1537875596521,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "API Con",
+    "location": "Berlin, DE",
+    "movie": "https://www.youtube.com/watch?v=1lW7sLPg3v4",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1537443596521,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Northeast PHP",
+    "location": "Boston, MA, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1536061196521,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Boca JS",
+    "location": "Boca Raton, FL, US",
+    "movie": "https://www.youtube.com/watch?v=z4EPKJbd4Ho",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1535742513688,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Code Cruise",
+    "location": "Fort Lauderdale, FL, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1533901196521,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "Midwest JS",
+    "location": "Minneapolis, MN, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/forgot-password-yes-i-did-123085205"
+  },
+  {
+    "time": 1533814796521,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "Midwest JS",
+    "location": "Minneapolis, MN, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
+  },
+  {
+    "time": 1533209996521,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "SF Node",
+    "location": "San Francisco, CA, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/forgot-password-yes-i-did-123085205"
+  },
+  {
+    "time": 1533064113688,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "API Days SF",
+    "location": "San Francisco, CA, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1532027313688,
+    "title": "A Token Walks Into A SPA",
+    "conference": "Web Craft Conf",
+    "location": "Kingston, JM",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1529004231201,
+    "title": "Forgot Password? Yes I Did!",
+    "conference": "Skyway Software Symposium",
+    "location": "Minneapolis, MN, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1529004231201,
+    "title": "WTH is a JWT",
+    "conference": "Open Source North",
+    "location": "Minneapolis, MN, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1528299057317,
+    "title": "Asynchronicity: concurrency.  A tale of",
+    "conference": "International PHP Conf",
+    "location": "Berlin, DE",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1528212657317,
+    "title": "Learning Machine Learning",
+    "conference": "International PHP Conf",
+    "location": "Berlin, DE",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1525893831201,
+    "title": "WTH is a JWT",
+    "conference": "Node DC",
+    "location": "Washington, DC, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1525807431201,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "NoVa.JS",
+    "location": "Reston, VA, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1525461831201,
+    "title": "Secure Your SPA With Auth0",
+    "conference": "Triangle ReactJs",
+    "location": "Raleigh, NC, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1525289031201,
+    "title": "WTH is a JWT",
+    "conference": "charmCity JS",
+    "location": "Baltimore, MD",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1523633457317,
+    "title": "Asynchronicity: concurrency.  A tale of",
+    "conference": "International Javascript Conf",
+    "location": "London, UK",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/asynchonicity-concurrency-a-tale-of"
+  },
+  {
+    "time": 1523547057317,
+    "title": "Learning Machine Learning",
+    "conference": "International Javascript Conf",
+    "location": "London, UK",
+    "movie": "https://www.youtube.com/watch?v=qdrsOgJRofs",
+    "slides": ""
+  },
+  {
+    "time": 1523547057317,
+    "title": "I Don't Care About Security (extended)",
+    "conference": "International Javascript Conf",
+    "location": "London, UK",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1523042631201,
+    "title": "I Don't Care About Security (extended)",
+    "conference": "Paris JS",
+    "location": "Paris, FR",
+    "movie": "https://www.youtube.com/watch?v=FBOj7eA0Yxg",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security"
+  },
+  {
+    "time": 1522956231201,
+    "title": "Panel on Security with Sqreen",
+    "conference": "Paris API",
+    "location": "Paris, FR",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1522251057317,
+    "title": "I Don't Care About Security (And Neither Should You)",
+    "conference": "CodePaLOUsa",
+    "location": "Louiseville, KY",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-92230379"
+  },
+  {
+    "time": 1520969031201,
+    "title": "Secure Your SPA With Auth0",
+    "conference": "js-Montreal",
+    "location": "Montreal, QC",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/secure-your-spa-with-auth0"
+  },
+  {
+    "time": 1520553600000,
+    "title": "Asynchronicity: concurrency.  A tale of",
+    "conference": "Confoo",
+    "location": "Montreal, QC",
+    "movie": "",
+    "slides": "https://javascripteverything.com/slides/async-confoo.pdf"
+  },
+  {
+    "time": 1520467200000,
+    "title": "Learning Machine Learning",
+    "conference": "Confoo",
+    "location": "Montreal, QC",
+    "movie": "",
+    "slides": "https://javascripteverything.com/slides/machinelearning.pdf"
+  },
+  {
+    "time": 1517157057317,
+    "title": "Learning Machine Learning",
+    "conference": "PHP Benelux",
+    "location": "Antwerp, BE",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/learning-machine-learning-86749983"
+  },
+  {
+    "time": 1515702231201,
+    "title": "Opportunités dans le monde de la technologie (in French)",
+    "conference": "Ta Carrière, Ton Histoire",
+    "location": "Ottawa, ON, CA",
+    "movie": "https://www.youtube.com/watch?v=bfmmZILQhkI&t=1s",
+    "slides": ""
+  },
+  {
+    "time": 1509038262665,
+    "title": "Rise of the Nodebots",
+    "conference": "International Javascript Conference",
+    "location": "München, DE",
+    "movie": "https://www.youtube.com/watch?v=7yC5GeamQmA",
+    "slides": "https://github.com/joellord/ijs-nodebot/blob/master/Nodebots.pdf"
+  },
+  {
+    "time": 1508951862665,
+    "title": "Learning Machine Learning",
+    "conference": "International Javascript Conference",
+    "location": "München, DE",
+    "movie": "https://www.youtube.com/watch?v=vvQploXy-lI",
+    "slides": "https://github.com/joellord/ijc-machine-learning/blob/master/machinelearning.pdf"
+  },
+  {
+    "time": 1503076662665,
+    "title": "Rise of the Nodebots",
+    "conference": "Midwest JS",
+    "location": "Minneapolis, MN, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/rise-of-the-nodebots"
+  },
+  {
+    "time": 1502990262665,
+    "title": "Let's Get Physical",
+    "conference": "Midwest JS",
+    "location": "Minneapolis, MN, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/lets-get-physical-78959502"
+  },
+  {
+    "time": 1502471862665,
+    "title": "Learning Machine Learning",
+    "conference": "Northeast PHP",
+    "location": "Charlottetown, PE, CA",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1502385462665,
+    "title": "Let's get Physical",
+    "conference": "Northeast PHP",
+    "location": "Charlottetown, PE, CA",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1499088056619,
+    "title": "Rise of the Nodebots",
+    "conference": "DevTeach Montreal",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1498742456619,
+    "title": "Learning Machine Learning",
+    "conference": "PHP Dutch Conf",
+    "location": "Amsterdam, NE",
+    "movie": "https://www.youtube.com/watch?v=FjBd7xS-oCs&index=10&list=PLV9OnTq0kQ5zGx4BgBE82mjILgG4CWoB2",
+    "slides": ""
+  },
+  {
+    "time": 1495843342583,
+    "title": "Learning Machine Learning",
+    "conference": "php[tek]",
+    "location": "Atlanta, GA, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/learning-about-machine-learning-76379569"
+  },
+  {
+    "time": 1495113656619,
+    "title": "Learning Machine Learning",
+    "conference": "PHP Nantes Tour",
+    "location": "Nantes, FR",
+    "movie": "https://www.youtube.com/watch?v=GyTaHmn57OY",
+    "slides": "https://www.slideshare.net/JoelLord4/learning-about-machine-learning"
+  },
+  {
+    "time": 1492815600000,
+    "title": "Rise of the Nodebots",
+    "conference": "Lone Star PHP",
+    "location": "Dallas, TX, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1492815600000,
+    "title": "Learning Machine Learning",
+    "conference": "Lone Star PHP",
+    "location": "Dallas, TX, US",
+    "movie": "",
+    "slides": "https://www.slideshare.net/JoelLord4/learning-machine-learning"
+  },
+  {
+    "time": 1491350542583,
+    "title": "Learning Machine Learning (in French)",
+    "conference": "WAQ 2017",
+    "location": "Quebec City, QC, Canada",
+    "movie": "",
+    "slides": "http://www.slideshare.net/JoelLord4/apprendre-lapprentissage-automatis"
+  },
+  {
+    "time": 1490642631201,
+    "title": "Interview About IoT (in French)",
+    "conference": "DevTeach Conf Interviews",
+    "location": "The Internets",
+    "movie": "https://www.youtube.com/watch?v=QffcAcduVCU&t=8s",
+    "slides": ""
+  },
+  {
+    "time": 1489618800000,
+    "title": "Let's Get Physical",
+    "conference": "JS Remote",
+    "location": "The Internets",
+    "movie": "https://vimeo.com/208899417/ccd6b879cf",
+    "slides": "https://www.slideshare.net/JoelLord4/lets-get-physical-73182535"
+  },
+  {
+    "time": 1485032236752,
+    "title": "Rise of the Nodebots",
+    "conference": "ConUHacks",
+    "location": "Montreal, QC, Canada",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1478875098638,
+    "title": "Making Smart Homes Smarter With Javascript",
+    "conference": "OttawaJS",
+    "location": "Ottawa, ON, Canada",
+    "movie": "",
+    "slides": "https://goo.gl/2KQs4h"
+  },
+  {
+    "time": 1476676800000,
+    "title": "Making Smart Homes Smarter With Javascript",
+    "conference": "Full Stack Toronto",
+    "location": "Toronto, ON, Canada",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1470888000000,
+    "title": "Sockets bring light at the end of the tunnel",
+    "conference": "Midwest JS",
+    "location": "Minneapolis, MN, USA",
+    "movie": "",
+    "slides": "http://www.slideshare.net/JoelLord4/websockets-bring-light-at-the-end-of-the-tunnel"
+  },
+  {
+    "time": 1470438000000,
+    "title": "Robocalypse: Controlling robots with kinect gestures",
+    "conference": "Northeast PHP",
+    "location": "Charlottetown, PE, Canada",
+    "movie": "",
+    "slides": "http://www.slideshare.net/JoelLord4/robocalypse-controlling-robots-with-a-kinect"
+  },
+  {
+    "time": 1470351600000,
+    "title": "Smart homes made smarter with Javascript",
+    "conference": "Northeast PHP",
+    "location": "Charlottetown, PE, Canada",
+    "movie": "",
+    "slides": "http://www.slideshare.net/JoelLord4/making-smart-homes-smarter-with-javascript"
+  },
+  {
+    "time": 1468437831201,
+    "title": "Sockets Bring Light At Then End Of The Tunnel",
+    "conference": "BeMyApp Webinar",
+    "location": "The Internets",
+    "movie": "https://www.youtube.com/watch?v=4Ypx4iSH6MI&t=2s",
+    "slides": ""
+  },
+  {
+    "time": 1467864000000,
+    "title": "Take a gulp at task automation",
+    "conference": "DevTeachConf",
+    "location": "Montreal, QC, Canada",
+    "movie": "",
+    "slides": "http://www.slideshare.net/JoelLord4/take-a-gulp-at-task-automation"
+  },
+  {
+    "time": 1467777600000,
+    "title": "Smart homes made smarter with Javascript",
+    "conference": "DevTeachConf",
+    "location": "Montreal, QC, Canada",
+    "movie": "",
+    "slides": "http://www.slideshare.net/JoelLord4/smart-homes-made-smarter-with-javascript"
+  },
+  {
+    "time": 1466395200000,
+    "title": "Websockets Bring Light At The End Of The Tunnel",
+    "conference": "NodePDX",
+    "location": "Portland, OR, USA",
+    "movie": "https://www.youtube.com/watch?v=aX5pDfkpU2M",
+    "slides": "/slides/nodepdx-websockets.pdf"
+  },
+  {
+    "time": 1465358400000,
+    "title": "Introduction to Framework7",
+    "conference": "Ottawa Javascript",
+    "location": "Ottawa, ON, Canada",
+    "movie": "",
+    "slides": "https://github.com/joellord/Ottawa_Mobile_Dev_May_2016"
+  },
+  {
+    "time": 1463976000000,
+    "title": "Introduction to Framework7",
+    "conference": "Ottawa Mobile Development Meetup",
+    "location": "Ottawa, ON, Canada",
+    "movie": "",
+    "slides": "https://github.com/joellord/Ottawa_Mobile_Dev_May_2016"
+  },
+  {
+    "time": 1456376400000,
+    "title": "Smart homes made smarter with Javascript",
+    "conference": "Confoo",
+    "location": "Montreal, QC, Canada",
+    "movie": "",
+    "slides": "http://slides.com/joellord/making-smart-homes-smarter-with-javascript"
+  },
+  {
+    "time": 1456376400000,
+    "title": "Sockets bring light at the end of the tunnel",
+    "conference": "Confoo",
+    "location": "Montreal, QC, Canada",
+    "movie": "",
+    "slides": "http://slides.com/joellord/confoo-websockets"
+  },
+  {
+    "time": 1447477200000,
+    "title": "Robocalypse: Controlling robots with kinect gestures",
+    "conference": "Full Stack Toronto",
+    "location": "Toronto, ON, Canada",
+    "movie": "https://www.youtube.com/watch?v=B5nTxkODwtg",
+    "slides": "https://speakerdeck.com/joellord/robocalypse-full-stack-toronto-2015"
+  },
+  {
+    "time": 1446004800000,
+    "title": "Robocalypse: Controlling robots with kinect gestures",
+    "conference": "Full Stack London",
+    "location": "London, UK",
+    "movie": "https://skillsmatter.com/skillscasts/6764-robocalypse-controlling-nodebots-with-kinect-gestures",
+    "slides": "https://speakerdeck.com/joellord/robocalypse-controlling-nodebots-with-kinect-gestures"
+  },
+  {
+    "time": 1443067200000,
+    "title": "Developing for IoT Workshop",
+    "conference": "IoT 613",
+    "location": "Ottawa, ON, Canada",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": 1418187600000,
+    "title": "Websockets 101: Using socket.io",
+    "conference": "Ottawa Javascript",
+    "location": "Ottawa, ON, Canada",
+    "movie": "",
+    "slides": "http://slides.com/joellord/ottawajs-websockets"
+  },
+  {
+    "time": 1412740800000,
+    "title": "Nodebots: Detecting gestures with NodeJs & Kinect",
+    "conference": "Ottawa Javascript",
+    "location": "Ottawa, ON, Canada",
+    "movie": "",
+    "slides": "http://slides.com/joellord/nodebots-detecting-gestures-with-node-js-kinect"
+  },
+  {
+    "time": 1376625600000,
+    "title": "How and why to use regular expressions in PHP",
+    "conference": "Northeast PHP",
+    "location": "Boston, MA, USA",
+    "movie": "https://www.youtube.com/watch?v=5M1VTOgfiRk",
+    "slides": "http://slides.com/joellord/how-and-why-to-use-regular-expressions"
+  }
+]
