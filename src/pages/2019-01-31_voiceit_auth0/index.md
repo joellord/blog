@@ -8,6 +8,8 @@ author: "Joel Lord"
 formattedDate: "January 31st, 2019"
 keywords: ["javascript", "voiceit", "2fa", "biometrics"]
 banner: "puzzle"
+originalSource: "Auth0's Blog"
+originalUrl: "https://auth0.com/blog/use-voiceit-as-second-factor-auth/"
 ---
 
 When your users log in, it is crucial that you verify they are who they say they are by adding a second factor for authentication. This can help reduce fraudulent logins from a password compromised through phishing or in a past breach.
@@ -640,6 +642,3 @@ git checkout final
 
 ## Summary
 That’s it! You now have working two-factor authentication in your application that uses face and voice biometrics. As you can see, Auth0 and VoiceIt can be made to easily work hand in hand to accomplish this. Using the power of VoiceIt’s face and voice biometrics with the simplicity of Auth0, you can make your applications much more secure with a 2fa that will bring a much better experience to your users.
-
-####Original post
-Originally published on [Auth0's Blog](https://auth0.com/blog/use-voiceit-as-second-factor-auth/).

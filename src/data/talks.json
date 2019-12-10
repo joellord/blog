@@ -1,10 +1,90 @@
 [
   {
+    "time": "4-03-2020",
+    "title": "Containerization For Software Developers",
+    "conference": "Midwest PHP",
+    "location": "Minneapolis, MN",
+    "movie": "",
+    "slides": "http://ezurl.to/containers",
+  },
+  {
+    "time": "3-27-2020",
+    "title": "Containerization For Software Developers",
+    "conference": "CodeMotion Rome",
+    "location": "Rome, IT",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
+    "time": "3-3-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "Boca Raton JS",
+    "location": "Boca Raton, FL",
+    "movie": "",
+    "slides": "http://ezurl.to/kube-kitchen"
+  },
+  {
+    "time": "2-29-2020",
+    "title": "My Browser Does What?",
+    "conference": "South Florida Code Camp",
+    "location": "Fort Lauderdale, FL",
+    "movie": "",
+    "slides": "http://ezurl.to/browser-api"
+  }, 
+  {
+    "time": "2-27-2020",
+    "title": "Containers for Software Developers",
+    "conference": "Confoo",
+    "location": "Montreal, QC",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  }, 
+  {
+    "time": "2-27-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "Confoo",
+    "location": "Montreal, QC",
+    "movie": "",
+    "slides": "http://ezurl.to/kube-kitchen"
+  },
+  {
+    "time": "1-6-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "JavaScript And Friends Online Meetup",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/kube-kitchen"
+  }, 
+  {
+    "time": "12-9-2020",
+    "title": "Build CLI tools with NodeJs",
+    "conference": "OpenSource Mtl",
+    "location": "Montreal, QC",
+    "movie": "",
+    "slides": "http://ezurl.to/nodecli"
+  }, 
+  {
+    "time": "11-23-2019",
+    "title": "Kubernetes Kitchen",
+    "conference": "Boston Code Camp",
+    "location": "Boston, MA",
+    "movie": "",
+    "slides": "http://ezurl.to/kube-kitchen"
+  }, 
+  {
+    "time": "11-23-2019",
+    "title": "Containers for Software Developers",
+    "conference": "Boston Code Camp",
+    "location": "Boston, MA",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  }, 
+  {
     "time": "11-6-2019",
     "title": "From Caesar Cipher to Quantum Cryptography",
     "conference": "Øredev",
     "location": "Malmö, SE",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=V7Pm0vCTJVo",
     "slides": "http://ezurl.to/crypto"
   }, 
   {
@@ -20,8 +100,8 @@
     "title": "My Browser Does What?",
     "conference": "International Javascript Conference",
     "location": "Munich, DE",
-    "movie": "",
-    "slides": ""
+    "movie": "http://youtu.be/zaqqUl3UNvw",
+    "slides": "http://ezurl.to/browser-api"
   },  
   {
     "time": "10-23-2019",
