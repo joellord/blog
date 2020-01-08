@@ -1,5 +1,45 @@
 [
   {
+    "time": "5-26-2020",
+    "title": "Containerization for Software Developers",
+    "conference": "ForwardJS",
+    "location": "Ottawa, ON",
+    "movie": "",
+    "slides": "https://ezurl.to/containers"
+  },
+  {
+    "time": "4-30-2020",
+    "title": "Containerization for Software Developers",
+    "conference": "Indy.Code()",
+    "location": "Indianapolis, IN, US",
+    "movie": "",
+    "slides": "https://ezurl.to/containers"
+  },
+  {
+    "time": "4-30-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "Indy.Code()",
+    "location": "Indianapolis, IN, US",
+    "movie": "",
+    "slides": "https://ezurl.to/kube-kitchen"
+  },
+  {
+    "time": "4-27-2020",
+    "title": "Hands-On with the OpenShift 4 Developer Tools and Services",
+    "conference": "Red Hat Summit",
+    "location": "San Francisco, CA, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": "4-15-2020",
+    "title": "Containers? Do I Really Need That? I’m A JS Dev",
+    "conference": "JS Kongress",
+    "location": "Munich, DE",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
     "time": "4-03-2020",
     "title": "Containerization For Software Developers",
     "conference": "Midwest PHP",
@@ -48,12 +88,28 @@
     "slides": "http://ezurl.to/kube-kitchen"
   },
   {
-    "time": "1-6-2020",
+    "time": "2-21-2020",
+    "title": "Post Burnout Thoughts",
+    "conference": "PHP UK",
+    "location": "London, UK",
+    "movie": "",
+    "slides": "http://ezurl.to/burnout"
+  },
+  {
+    "time": "1-28-2020",
     "title": "Kubernetes Kitchen",
     "conference": "JavaScript And Friends Online Meetup",
     "location": "The Internets",
     "movie": "",
     "slides": "http://ezurl.to/kube-kitchen"
+  },
+  {
+    "time": "1-22-2020",
+    "title": "Containerization for Software Developers",
+    "conference": "Ottawa PHP",
+    "location": "Ottawa, ON",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
   }, 
   {
     "time": "12-9-2020",

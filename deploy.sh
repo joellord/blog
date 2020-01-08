@@ -2,9 +2,10 @@
 HOST='ftp.javascripteverything.com'
 USER='gatsbydeploy@javascripteverything.com'
 PASSWD='Depl0yNow!'
+LOCAL_FOLDER='~/Code/gatsby-blog/public/'
 
-rm -rf ./public
-mkdir public
+#rm -rf ./public
+#mkdir public
 gatsby build
 
 echo "😎  Everything is packaged, let's try to FTP it"
@@ -14,9 +15,9 @@ quote USER $USER
 quote PASS $PASSWD
 binary
 cd public_html
-lcd Code/gatsby-blog/public
+lcd $LOCAL_FOLDER
 prompt
-mput **/*.*
+mput ./**/*.*
 quit
 END_SCRIPT
 exit 0
