@@ -8,6 +8,30 @@
     "slides": "https://ezurl.to/containers"
   },
   {
+    "time": "5-21-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "php[tek]",
+    "location": "Nashville, TN, UA",
+    "movie": "",
+    "slides": "http://ezurl.to/kube-kitchen"
+  },
+  {
+    "time": "5-12-2020",
+    "title": "Build CLI tools with NodeJs",
+    "conference": "jsDay",
+    "location": "Verona, IT",
+    "movie": "",
+    "slides": "http://ezurl.to/cli"
+  },
+  {
+    "time": "5-7-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "Into The Box",
+    "location": "Austin, TX, US",
+    "movie": "",
+    "slides": "https://ezurl.to/kube-kitchen"
+  },
+  {
     "time": "4-30-2020",
     "title": "Containerization for Software Developers",
     "conference": "Indy.Code()",
@@ -32,6 +56,14 @@
     "slides": ""
   },
   {
+    "time": "4-21-2020",
+    "title": "Build CLI tools with NodeJs",
+    "conference": "International JS Conference",
+    "location": "London, UK",
+    "movie": "",
+    "slides": "http://ezurl.to/cli"
+  },
+  {
     "time": "4-15-2020",
     "title": "Containers? Do I Really Need That? I’m A JS Dev",
     "conference": "JS Kongress",
@@ -46,6 +78,14 @@
     "location": "Minneapolis, MN",
     "movie": "",
     "slides": "http://ezurl.to/containers"
+  },
+  {
+    "time": "4-02-2020",
+    "title": "Hands On Intro to Kubernetes (and OpenShift) for Developers",
+    "conference": "Midwest PHP",
+    "location": "Minneapolis, MN",
+    "movie": "",
+    "slides": ""
   },
   {
     "time": "3-27-2020",
@@ -96,6 +136,22 @@
     "slides": "http://ezurl.to/burnout"
   },
   {
+    "time": "1-30-2020",
+    "title": "Containerization for Software Developers",
+    "conference": "Boston Node",
+    "location": "Boston, MA",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
+    "time": "1-29-2020",
+    "title": "Build CLI tools with NodeJs",
+    "conference": "NoBo.js",
+    "location": "Newburyport, MA",
+    "movie": "",
+    "slides": "http://ezurl.to/cli"
+  },
+  {
     "time": "1-28-2020",
     "title": "Kubernetes Kitchen",
     "conference": "JavaScript And Friends Online Meetup",
@@ -112,7 +168,15 @@
     "slides": "http://ezurl.to/containers"
   }, 
   {
-    "time": "12-9-2020",
+    "time": "12-10-2019",
+    "title": "Build CLI tools with NodeJs",
+    "conference": "Microsoft Devs Montreal",
+    "location": "Montreal, QC",
+    "movie": "",
+    "slides": "http://ezurl.to/nodecli"
+  }, 
+  {
+    "time": "12-9-2019",
     "title": "Build CLI tools with NodeJs",
     "conference": "OpenSource Mtl",
     "location": "Montreal, QC",
