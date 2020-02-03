@@ -1,7 +1,7 @@
 #!/bin/sh
 HOST='ftp.javascripteverything.com'
 USER='gatsbydeploy@javascripteverything.com'
-PASSWD='Depl0yNow!'
+PASSWD='-------'
 LOCAL_FOLDER='~/Code/gatsby-blog/public/'
 
 #rm -rf ./public
