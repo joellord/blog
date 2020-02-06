@@ -64,6 +64,14 @@
     "slides": "http://ezurl.to/cli"
   },
   {
+    "time": "4-18-2020",
+    "title": "Containerization for Software Developers",
+    "conference": "Ottawa WordPress",
+    "location": "Ottawa, ON, CA",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
     "time": "4-15-2020",
     "title": "Containers? Do I Really Need That? I’m A JS Dev",
     "conference": "JS Kongress",
