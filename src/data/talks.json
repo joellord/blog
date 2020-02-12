@@ -1,5 +1,13 @@
 [
   {
+    "time": "7-4-2020",
+    "title": "Kubernetes Restaurant",
+    "conference": "OdessaJS",
+    "location": "Odessa, UA",
+    "movie": "",
+    "slides": "https://ezurl.to/kube-kitchen"
+  },
+  {
     "time": "5-26-2020",
     "title": "Containerization for Software Developers",
     "conference": "ForwardJS",
