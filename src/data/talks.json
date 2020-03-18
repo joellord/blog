@@ -11,9 +11,18 @@
     "time": "5-26-2020",
     "title": "Containerization for Software Developers",
     "conference": "ForwardJS",
-    "location": "Ottawa, ON",
+    "location": "The Internets",
     "movie": "",
     "slides": "https://ezurl.to/containers"
+  },
+  {
+    "time": "5-26-2020",
+    "title": "Containerization for Software Developers",
+    "conference": "ForwardJS",
+    "location": "Ottawa, ON",
+    "movie": "",
+    "slides": "https://ezurl.to/containers",
+    "cancelled": true
   },
   {
     "time": "5-21-2020",
@@ -29,15 +38,8 @@
     "conference": "jsDay",
     "location": "Verona, IT",
     "movie": "",
-    "slides": "http://ezurl.to/cli"
-  },
-  {
-    "time": "5-7-2020",
-    "title": "Kubernetes Kitchen",
-    "conference": "Into The Box",
-    "location": "Austin, TX, US",
-    "movie": "",
-    "slides": "https://ezurl.to/kube-kitchen"
+    "slides": "http://ezurl.to/cli",
+    "cancelled": true
   },
   {
     "time": "4-30-2020",
@@ -45,7 +47,8 @@
     "conference": "Indy.Code()",
     "location": "Indianapolis, IN, US",
     "movie": "",
-    "slides": "https://ezurl.to/containers"
+    "slides": "https://ezurl.to/containers",
+    "cancelled": true
   },
   {
     "time": "4-30-2020",
@@ -53,7 +56,17 @@
     "conference": "Indy.Code()",
     "location": "Indianapolis, IN, US",
     "movie": "",
-    "slides": "https://ezurl.to/kube-kitchen"
+    "slides": "https://ezurl.to/kube-kitchen",
+    "cancelled": true
+  },
+  {
+    "time": "4-27-2020",
+    "title": "Automating Application Delivery With OpenShift Pipelines Demo",
+    "conference": "Virtual Summit",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "",
+    "cancelled": true
   },
   {
     "time": "4-27-2020",
@@ -61,7 +74,8 @@
     "conference": "Red Hat Summit",
     "location": "San Francisco, CA, US",
     "movie": "",
-    "slides": ""
+    "slides": "",
+    "cancelled": true
   },
   {
     "time": "4-21-2020",
@@ -72,26 +86,28 @@
     "slides": "http://ezurl.to/cli"
   },
   {
-    "time": "4-18-2020",
-    "title": "Containerization for Software Developers",
-    "conference": "Ottawa WordPress",
-    "location": "Ottawa, ON, CA",
-    "movie": "",
-    "slides": "http://ezurl.to/containers"
-  },
-  {
     "time": "4-15-2020",
     "title": "Containers? Do I Really Need That? I’m A JS Dev",
     "conference": "JS Kongress",
     "location": "Munich, DE",
     "movie": "",
-    "slides": "http://ezurl.to/containers"
+    "slides": "http://ezurl.to/containers",
+    "cancelled": true
   },
   {
     "time": "4-08-2020",
     "title": "Containerization For Software Developers",
     "conference": "Ottawa WordPress Meetup",
     "location": "Ottawa, ON, CA",
+    "movie": "",
+    "slides": "http://ezurl.to/containers",
+    "cancelled": true
+  },
+  {
+    "time": "4-03-2020",
+    "title": "Containerization For Software Developers",
+    "conference": "Midwest PHP",
+    "location": "The Internets",
     "movie": "",
     "slides": "http://ezurl.to/containers"
   },
@@ -101,7 +117,8 @@
     "conference": "Midwest PHP",
     "location": "Minneapolis, MN",
     "movie": "",
-    "slides": "http://ezurl.to/containers"
+    "slides": "http://ezurl.to/containers",
+    "cancelled": true
   },
   {
     "time": "4-02-2020",
@@ -109,7 +126,8 @@
     "conference": "Midwest PHP",
     "location": "Minneapolis, MN",
     "movie": "",
-    "slides": ""
+    "slides": "",
+    "cancelled": true
   },
   {
     "time": "3-27-2020",
@@ -117,7 +135,8 @@
     "conference": "CodeMotion Rome",
     "location": "Rome, IT",
     "movie": "",
-    "slides": "http://ezurl.to/containers"
+    "slides": "http://ezurl.to/containers",
+    "cancelled": true
   },
   {
     "time": "3-3-2020",

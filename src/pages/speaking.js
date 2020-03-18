@@ -12,7 +12,6 @@ const SpeakingPage = () => {
   const futureTalks = [];
   const pastTalks = [];
   const now = (new Date()).getTime();
-  debugger;
   let cnt = 0;
   talks.map((talk) => {
     talk.key = cnt++;
@@ -40,6 +39,11 @@ const SpeakingPage = () => {
     return talk;
   });
 
+  const styleCancelled = {
+    fontStyle: "italic",
+    textDecoration: "line-through"
+  };
+
   return (
     <Layout>
       <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
@@ -60,8 +64,8 @@ const SpeakingPage = () => {
 
             <table className="table table-striped small-table-text">
               <tbody>
-              { futureTalks.map(talk => (
-              <tr key={talk.key}>
+              { futureTalks.map(talk => ( 
+              <tr key={talk.key} style={ talk.cancelled ? styleCancelled : {} }>
                 <td>{ talk.niceDate }</td>
                 <td>{ talk.title }</td>
                 <td>{ talk.conference }</td>
@@ -82,7 +86,7 @@ const SpeakingPage = () => {
             <table className="table table-striped small-table-text">
               <tbody>
               { pastTalks.map(talk => (
-              <tr key={talk.key}>
+              <tr key={talk.key} style={ talk.cancelled ? styleCancelled : {} }>
                 <td>{ talk.niceDate }</td>
                 <td>{ talk.title }</td>
                 <td>{ talk.conference }</td>
