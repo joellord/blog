@@ -30,7 +30,8 @@
     "conference": "php[tek]",
     "location": "Nashville, TN, UA",
     "movie": "",
-    "slides": "http://ezurl.to/kube-kitchen"
+    "slides": "http://ezurl.to/kube-kitchen",
+    "cancelled": true
   },
   {
     "time": "5-12-2020",
@@ -65,8 +66,7 @@
     "conference": "Virtual Summit",
     "location": "The Internets",
     "movie": "",
-    "slides": "",
-    "cancelled": true
+    "slides": ""
   },
   {
     "time": "4-27-2020",
@@ -83,7 +83,8 @@
     "conference": "International JS Conference",
     "location": "London, UK",
     "movie": "",
-    "slides": "http://ezurl.to/cli"
+    "slides": "http://ezurl.to/cli",
+    "cancelled": true
   },
   {
     "time": "4-15-2020",
