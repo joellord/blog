@@ -1,5 +1,21 @@
 [
   {
+    "time": "9-30-2020",
+    "title": "Containerization For JS Developers",
+    "conference": "International JavaScript Conference",
+    "location": "New-York, NY, US",
+    "movie": "",
+    "slides": "https://ezurl.to/containers"
+  },
+  {
+    "time": "9-29-2020",
+    "title": "Building CLI Tools With NodeJS",
+    "conference": "International JavaScript Conference",
+    "location": "New-York, NY, US",
+    "movie": "",
+    "slides": "https://ezurl.to/node-cli"
+  },
+  {
     "time": "7-4-2020",
     "title": "Kubernetes Restaurant",
     "conference": "OdessaJS",
