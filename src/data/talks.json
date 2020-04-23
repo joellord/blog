@@ -1,5 +1,13 @@
 [
   {
+    "time": "11-27-2020",
+    "title": "Containerization For Software Developers",
+    "conference": "CodeMotion Rome",
+    "location": "Rome, IT",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
     "time": "9-30-2020",
     "title": "Containerization For JS Developers",
     "conference": "International JavaScript Conference",
@@ -44,10 +52,18 @@
     "time": "5-21-2020",
     "title": "Kubernetes Kitchen",
     "conference": "php[tek]",
-    "location": "Nashville, TN, UA",
+    "location": "Nashville, TN, US",
     "movie": "",
     "slides": "http://ezurl.to/kube-kitchen",
     "cancelled": true
+  },
+  {
+    "time": "5-7-2020",
+    "title": "Containerization for JS Developers",
+    "conference": "JSVidCon",
+    "location": "The  Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/containers"
   },
   {
     "time": "5-12-2020",
@@ -77,6 +93,22 @@
     "cancelled": true
   },
   {
+    "time": "4-28-2020",
+    "title": "Containerization for Software Developers",
+    "conference": "Linux Fest Northwest",
+    "location": "The Internets",
+    "movie": "https://discuss.lfnw.org/c/lfnw2020/5",
+    "slides": "https://ezurl.to/containers"
+  },
+  {
+    "time": "4-27-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "Linux Fest Northwest",
+    "location": "The Internets",
+    "movie": "https://discuss.lfnw.org/t/kube-restaurant/112/2",
+    "slides": "https://ezurl.to/kube-kitchen"
+  },
+  {
     "time": "4-27-2020",
     "title": "Automating Application Delivery With OpenShift Pipelines Demo",
     "conference": "Virtual Summit",
@@ -92,6 +124,14 @@
     "movie": "",
     "slides": "",
     "cancelled": true
+  },
+  {
+    "time": "4-23-2020",
+    "title": "Build CLI tools with NodeJs",
+    "conference": "Devs @ Home",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/cli"
   },
   {
     "time": "4-21-2020",
