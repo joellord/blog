@@ -58,6 +58,15 @@
     "cancelled": true
   },
   {
+    "time": "5-12-2020",
+    "title": "Build CLI tools with NodeJs",
+    "conference": "jsDay",
+    "location": "Verona, IT",
+    "movie": "",
+    "slides": "http://ezurl.to/cli",
+    "cancelled": true
+  },
+  {
     "time": "5-7-2020",
     "title": "Containerization for JS Developers",
     "conference": "JSVidCon",
@@ -66,13 +75,12 @@
     "slides": "https://ezurl.to/containers"
   },
   {
-    "time": "5-12-2020",
-    "title": "Build CLI tools with NodeJs",
-    "conference": "jsDay",
-    "location": "Verona, IT",
+    "time": "5-7-2020",
+    "title": "Kube Kitchen",
+    "conference": "Into The Box",
+    "location": "The  Internets",
     "movie": "",
-    "slides": "http://ezurl.to/cli",
-    "cancelled": true
+    "slides": "https://ezurl.to/kube-kitchen"
   },
   {
     "time": "4-30-2020",
