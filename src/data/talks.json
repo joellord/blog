@@ -8,6 +8,14 @@
     "slides": "http://ezurl.to/containers"
   },
   {
+    "time": "10-1-2020",
+    "title": "My Browser Does What?",
+    "conference": "GIDS.Web Live",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/browser-api"
+  },
+  {
     "time": "9-30-2020",
     "title": "Containerization For JS Developers",
     "conference": "International JavaScript Conference",
@@ -22,6 +30,38 @@
     "location": "New-York, NY, US",
     "movie": "",
     "slides": "https://ezurl.to/node-cli"
+  },
+  {
+    "time": "8-21-2020",
+    "title": "Containerization For Software Developers",
+    "conference": "CodePaLOUsa",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/kube-kitchen"
+  },
+  {
+    "time": "8-20-2020",
+    "title": "My Browser Does What?",
+    "conference": "CodePaLOUsa",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/browser-api"
+  },
+  {
+    "time": "8-19-2020",
+    "title": "Hands-On Introduction To Kubernetes (And OpenShift)",
+    "conference": "CodePaLOUsa",
+    "location": "The Internets",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": "8-6-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "GIDS.Cloud Live",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/kube-kitchen"
   },
   {
     "time": "7-4-2020",
