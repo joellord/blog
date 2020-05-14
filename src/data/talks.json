@@ -98,6 +98,14 @@
     "cancelled": true
   },
   {
+    "time": "5-19-2020",
+    "title": "Conteneurisation Pour Les Développeurs",
+    "conference": "Nantes JS",
+    "location": "The Internets",
+    "movie": "https://t.co/AtfUz1LCSp",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
     "time": "5-12-2020",
     "title": "Build CLI tools with NodeJs",
     "conference": "jsDay",
