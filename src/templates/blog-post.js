@@ -5,7 +5,13 @@ import { graphql } from "gatsby"
 import BlogHeader from "../components/blogheader"
 import PageFooter from "../components/pagefooter"
 
-// import '../css/blog-post.css'; // make it pretty!
+import "../components/layout.css"
+
+import "../components/css/bootstrap.css"
+import "../components/css/clean-blog.css"
+import "../components/css/site.css"
+
+// import '../components/css/blog-post.css'; // make it pretty!
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query we'll write in a bit
