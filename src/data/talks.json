@@ -56,6 +56,22 @@
     "slides": ""
   },
   {
+    "time": "8-14-2020",
+    "title": "My Browser Does What?",
+    "conference": "JavaScript and Friends",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/browser-api"
+  },
+  {
+    "time": "8-13-2020",
+    "title": "Hands-On Introduction To Kubernetes (And OpenShift)",
+    "conference": "JavaScript and Friends",
+    "location": "The Internets",
+    "movie": "",
+    "slides": ""
+  },
+  {
     "time": "8-6-2020",
     "title": "Kubernetes Kitchen",
     "conference": "GIDS.Cloud Live",
