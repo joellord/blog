@@ -32,6 +32,14 @@
     "slides": "https://ezurl.to/node-cli"
   },
   {
+    "time": "9-10-2020",
+    "title": "Building CLI Tools With NodeJS",
+    "conference": "jsDay Verona",
+    "location": "Verona, IT",
+    "movie": "",
+    "slides": "https://ezurl.to/node-cli"
+  },
+  {
     "time": "8-21-2020",
     "title": "Containerization For Software Developers",
     "conference": "CodePaLOUsa",
