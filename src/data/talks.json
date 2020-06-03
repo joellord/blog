@@ -40,6 +40,14 @@
     "slides": "https://ezurl.to/node-cli"
   },
   {
+    "time": "8-29-2020",
+    "title": "Kubernetes Restaurant",
+    "conference": "OdessaJS",
+    "location": "Odessa, UA",
+    "movie": "",
+    "slides": "https://ezurl.to/kube-kitchen"
+  },
+  {
     "time": "8-21-2020",
     "title": "Containerization For Software Developers",
     "conference": "CodePaLOUsa",
@@ -84,14 +92,6 @@
     "title": "Kubernetes Kitchen",
     "conference": "GIDS.Cloud Live",
     "location": "The Internets",
-    "movie": "",
-    "slides": "https://ezurl.to/kube-kitchen"
-  },
-  {
-    "time": "7-4-2020",
-    "title": "Kubernetes Restaurant",
-    "conference": "OdessaJS",
-    "location": "Odessa, UA",
     "movie": "",
     "slides": "https://ezurl.to/kube-kitchen"
   },
@@ -143,7 +143,7 @@
     "title": "Containerization for JS Developers",
     "conference": "JSVidCon",
     "location": "The  Internets",
-    "movie": "",
+    "movie": "https://jsvidcon.com/vue-js-video/",
     "slides": "https://ezurl.to/containers"
   },
   {
@@ -245,7 +245,7 @@
     "title": "Containerization For Software Developers",
     "conference": "Midwest PHP",
     "location": "The Internets",
-    "movie": "",
+    "movie": "https://nomadphp.com/video/266/containerization-for-software-developers",
     "slides": "http://ezurl.to/containers"
   },
   {
@@ -280,7 +280,7 @@
     "title": "Kubernetes Kitchen",
     "conference": "Boca Raton JS",
     "location": "Boca Raton, FL",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=uZqAqN6A8LE",
     "slides": "http://ezurl.to/kube-kitchen"
   },
   {
