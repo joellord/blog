@@ -72,12 +72,20 @@
     "slides": "https://ezurl.to/node-cli"
   },
   {
-    "time": "8-29-2020",
-    "title": "Kubernetes Restaurant",
-    "conference": "OdessaJS",
-    "location": "Odessa, UA",
+    "time": "9-4-2020",
+    "title": "Building CLI Tools With NodeJS",
+    "conference": "iJS London",
+    "location": "London, UK",
     "movie": "",
-    "slides": "https://ezurl.to/kube-kitchen"
+    "slides": "https://ezurl.to/node-cli"
+  },
+  {
+    "time": "9-2-2020",
+    "title": "FullStack JavaScript day",
+    "conference": "iJS London",
+    "location": "London, UK",
+    "movie": "",
+    "slides": ""
   },
   {
     "time": "8-21-2020",
