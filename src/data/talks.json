@@ -8,6 +8,22 @@
     "slides": "http://ezurl.to/containers"
   },
   {
+    "time": "10-28-2020",
+    "title": "NodeJS, ML, K8s And Unethical Face Recognition",
+    "conference": "iJS Munich",
+    "location": "Munich, DE",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": "10-27-2020",
+    "title": "Kubernetes Kitchen",
+    "conference": "iJS Munich",
+    "location": "Munich, DE",
+    "movie": "",
+    "slides": "http://ezurl.to/kube-kitchen"
+  },
+  {
     "time": "10-20-2020",
     "title": "Power Up With Clouds And Pipelines",
     "conference": "Open Source Automation Day",
