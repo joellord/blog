@@ -136,6 +136,14 @@
     "slides": "https://ezurl.to/kube-kitchen"
   },
   {
+    "time": "6-17-2020",
+    "title": "Deploying VueJs Application To OpenShift With CircleCI",
+    "conference": "CircleCI Twitch",
+    "location": "The Internets",
+    "movie": "https://www.youtube.com/watch?v=ugl_TI-VOX0",
+    "slides": "http://www.github.com/joellord/circleci-openshift"
+  },
+  {
     "time": "5-26-2020",
     "title": "Containerization for Software Developers",
     "conference": "ForwardJS",
