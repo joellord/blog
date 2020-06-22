@@ -356,11 +356,19 @@
     "slides": "http://ezurl.to/kube-kitchen"
   },
   {
+    "time": "2-22-2020",
+    "title": "Containerization For Software Developers",
+    "conference": "PHP UK",
+    "location": "London, UK",
+    "movie": "https://www.youtube.com/watch?v=uTbzxiSZLNU",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
     "time": "2-21-2020",
     "title": "Post Burnout Thoughts",
     "conference": "PHP UK",
     "location": "London, UK",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=s1q7U1vK7r8",
     "slides": "http://ezurl.to/burnout"
   },
   {
@@ -584,7 +592,7 @@
     "title": "I Don't Care About Security (And Neither Should You)",
     "conference": "OdessaJS",
     "location": "Odessa, UA",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=_cSgHl3qaF8",
     "slides": "https://ezurl.to/idontcare"
   },
   {
@@ -592,7 +600,7 @@
     "title": "Choose Your Own Talk: The Mystery Of Identity City",
     "conference": "Erie Day Of Code",
     "location": "Erie, PA, US",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=nh3KEN9azf4",
     "slides": ""
   },
   {
@@ -600,7 +608,7 @@
     "title": "Post Burnout Thoughts",
     "conference": "Dutch PHP Conference",
     "location": "Amsterdam, NE",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=JQ1-SBEdV5s",
     "slides": "https://community.auth0.com/t/dutch-php-conference-amsterdam-netherlands-june-6-2019-to-june-8-2019/21729"
   },
   {
@@ -656,7 +664,7 @@
     "title": "Hacking JWTs",
     "conference": "Stir Trek",
     "location": "Columbus, OH, US",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=nTEx4Yl_GO4",
     "slides": "https://ezurl.to/hackingjwt"
   },
   {
@@ -712,7 +720,7 @@
     "title": "I Don't Care About Security (And Neither Should You)",
     "conference": "PyCon SK",
     "location": "Bratislava, SK",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=YTGjKHrNB18",
     "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-137810778"
   },
   {
@@ -784,16 +792,16 @@
     "title": "WTH is a JWT",
     "conference": "Pittsburgh Javascript",
     "location": "Pittsburgh, PA, US",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=574TnfkeSWM",
     "slides": ""
   },
   {
     "time": 1543936076618,
-    "title": "Forgot Password? Yes I Did!",
+    "title": "I Don't Care About Security, And Neither Should You",
     "conference": "Pittsburgh Code Supply",
     "location": "Pittsburgh, PA, US",
-    "movie": "",
-    "slides": "https://www.slideshare.net/JoelLord4/forgot-password-yes-i-did-134761042"
+    "movie": "https://www.youtube.com/watch?v=MDAePLLyiGs",
+    "slides": "https://www.slideshare.net/JoelLord4/i-dont-care-about-security-and-neither-should-you-113208473"
   },
   {
     "time": 1542294476618,
