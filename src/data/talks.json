@@ -100,6 +100,23 @@
     "cancelled": true
   },
   {
+    "time": "8-31-2020",
+    "title": "Kube Kitchen",
+    "conference": "OdessaJS",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/kube-kitchen",
+    "cancelled": true
+  },
+  {
+    "time": "8-22-2020",
+    "title": "Kube Kitchen",
+    "conference": "OdessaJS",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/kube-kitchen"
+  },
+  {
     "time": "8-21-2020",
     "title": "Containerization For Software Developers",
     "conference": "CodePaLOUsa",
