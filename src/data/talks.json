@@ -40,6 +40,14 @@
     "slides": "https://ezurl.to/containers"
   },
   {
+    "time": "10-5-2020",
+    "title": "Building CLI Tools With NodeJS",
+    "conference": "Colorado Springs Tech (un)Conference",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/node-cli"
+  },
+  {
     "time": "10-3-2020",
     "title": "Containerization For JS Developers",
     "conference": "Central Wisconsin IT Conference",
