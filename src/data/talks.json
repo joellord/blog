@@ -56,6 +56,14 @@
     "slides": "https://ezurl.to/containers"
   },
   {
+    "time": "10-2-2020",
+    "title": "Hands-On Intro To Kubernetes and OpenShift",
+    "conference": "La Mêlée Numérique",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://ezurl.to/handson-k8s"
+  },
+  {
     "time": "10-1-2020",
     "title": "My Browser Does What?",
     "conference": "GIDS.Web Live",
