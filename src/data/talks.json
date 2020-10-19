@@ -8,10 +8,34 @@
     "slides": "http://ezurl.to/containers"
   },
   {
+    "time": "11-14-2020",
+    "title": "Kube Kitchen",
+    "conference": "Granite State Code Camp",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/kube-kitchen"
+  },
+  {
+    "time": "11-12-2020",
+    "title": "NodeJS, ML, K8s And Unethical Face Recognition",
+    "conference": "Thunderplains Conf 2020",
+    "location": "The Internets",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": "11-5-2020",
+    "title": "Kubernetes for JS Devs",
+    "conference": "NodeConf Remote",
+    "location": "The Internets",
+    "movie": "",
+    "slides": ""
+  },
+  {
     "time": "10-28-2020",
     "title": "NodeJS, ML, K8s And Unethical Face Recognition",
     "conference": "iJS Munich",
-    "location": "Munich, DE",
+    "location": "The Internets",
     "movie": "",
     "slides": ""
   },
@@ -19,9 +43,17 @@
     "time": "10-27-2020",
     "title": "Kubernetes Kitchen",
     "conference": "iJS Munich",
-    "location": "Munich, DE",
+    "location": "The Internets",
     "movie": "",
     "slides": "http://ezurl.to/kube-kitchen"
+  },
+  {
+    "time": "10-26-2020",
+    "title": "JavaScript Full Stack Day",
+    "conference": "iJS Munich",
+    "location": "The Internets",
+    "movie": "",
+    "slides": ""
   },
   {
     "time": "10-20-2020",
@@ -30,6 +62,14 @@
     "location": "The Internets",
     "movie": "",
     "slides": ""
+  },
+  {
+    "time": "10-14-2020",
+    "title": "Hands-On Intro To Tekton And OpenShift Pipelines",
+    "conference": "J4K",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "https://docs.google.com/presentation/d/1nZZj07ZOQahHDljwj4pz3ld1q8B6s0062t9ZrGaQnaw/edit#slide=id.g8fd742c54b_0_544"
   },
   {
     "time": "10-14-2020",
