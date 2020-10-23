@@ -8,6 +8,14 @@
     "slides": "http://ezurl.to/containers"
   },
   {
+    "time": "11-17-2020",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "DevDay.be",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "11-14-2020",
     "title": "Kube Kitchen",
     "conference": "Granite State Code Camp",
@@ -21,7 +29,7 @@
     "conference": "Thunderplains Conf 2020",
     "location": "The Internets",
     "movie": "",
-    "slides": ""
+    "slides": "http://ezurl.to/unethical"
   },
   {
     "time": "11-5-2020",
@@ -37,7 +45,7 @@
     "conference": "iJS Munich",
     "location": "The Internets",
     "movie": "",
-    "slides": ""
+    "slides": "http://ezurl.to/unethical"
   },
   {
     "time": "10-27-2020",
