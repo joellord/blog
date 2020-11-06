@@ -8,6 +8,22 @@
     "slides": "http://ezurl.to/containers"
   },
   {
+    "time": "11-19-2020",
+    "title": "Containerization for Front End Developers",
+    "conference": "UI Arch Conf",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/containerization"
+  },
+  {
+    "time": "11-18-2020",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "CloudNative eXchange",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "11-17-2020",
     "title": "NodeJS, ML, K8s and Unethical Face Recognition",
     "conference": "DevDay.be",
@@ -24,6 +40,14 @@
     "slides": "http://ezurl.to/kube-kitchen"
   },
   {
+    "time": "11-13-2020",
+    "title": "Kubernetes for JS Devs (repeat)",
+    "conference": "NodeConf Remote",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/handson-k8s"
+  },
+  {
     "time": "11-12-2020",
     "title": "NodeJS, ML, K8s And Unethical Face Recognition",
     "conference": "Thunderplains Conf 2020",
@@ -32,12 +56,20 @@
     "slides": "http://ezurl.to/unethical"
   },
   {
+    "time": "11-10-2020",
+    "title": "Using DataDog on OpenShift",
+    "conference": "DataDog Twitch",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://twitch.tv/datadog"
+  },
+  {
     "time": "11-5-2020",
     "title": "Kubernetes for JS Devs",
     "conference": "NodeConf Remote",
     "location": "The Internets",
     "movie": "",
-    "slides": ""
+    "slides": "http://ezurl.to/handson-k8s"
   },
   {
     "time": "10-28-2020",
