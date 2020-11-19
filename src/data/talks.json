@@ -1,5 +1,29 @@
 [
   {
+    "time": "1-19-2021",
+    "title": "Containerization for Software Developers",
+    "conference": "Techlahoma Meetup",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
+    "time": "12-16-2020",
+    "title": "Hands On with Tekton Pipelines",
+    "conference": "O'Reilly Live Trainings",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
+    "time": "12-15-2020",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "CloudNative eXchange",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "11-27-2020",
     "title": "Containerization For Software Developers",
     "conference": "CodeMotion Rome",
@@ -13,15 +37,8 @@
     "conference": "UI Arch Conf",
     "location": "The Internets",
     "movie": "",
-    "slides": "http://ezurl.to/containerization"
-  },
-  {
-    "time": "11-18-2020",
-    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
-    "conference": "CloudNative eXchange",
-    "location": "The Internets",
-    "movie": "",
-    "slides": "http://ezurl.to/unethical"
+    "slides": "http://ezurl.to/containerization",
+    "cancelled": true
   },
   {
     "time": "11-17-2020",
@@ -44,7 +61,7 @@
     "title": "Kubernetes for JS Devs (repeat)",
     "conference": "NodeConf Remote",
     "location": "The Internets",
-    "movie": "",
+    "movie": "https://www.crowdcast.io/e/kubeforjsdevs/",
     "slides": "http://ezurl.to/handson-k8s"
   },
   {
@@ -52,16 +69,8 @@
     "title": "NodeJS, ML, K8s And Unethical Face Recognition",
     "conference": "Thunderplains Conf 2020",
     "location": "The Internets",
-    "movie": "",
+    "movie": "https://youtu.be/h9v_JSTAkWw?t=21481",
     "slides": "http://ezurl.to/unethical"
-  },
-  {
-    "time": "11-10-2020",
-    "title": "Using DataDog on OpenShift",
-    "conference": "DataDog Twitch",
-    "location": "The Internets",
-    "movie": "",
-    "slides": "http://twitch.tv/datadog"
   },
   {
     "time": "11-5-2020",
@@ -116,7 +125,7 @@
     "title": "Containerization for Software Developers",
     "conference": "Connect.Tech",
     "location": "The Internets",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=I4VKupChUDk",
     "slides": "https://ezurl.to/containers"
   },
   {
@@ -124,7 +133,7 @@
     "title": "Building CLI Tools With NodeJS",
     "conference": "Colorado Springs Tech (un)Conference",
     "location": "The Internets",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=E2zrlrqqDV4&list=PLLFWSarOpJuKOG18z373zkuj0Ju1T0aVH&index=15",
     "slides": "https://ezurl.to/node-cli"
   },
   {
@@ -257,7 +266,7 @@
     "title": "My Browser Does What?",
     "conference": "JavaScript and Friends",
     "location": "The Internets",
-    "movie": "",
+    "movie": "https://www.youtube.com/watch?v=2m1wbxK_Xek",
     "slides": "https://ezurl.to/browser-api"
   },
   {
