@@ -1,5 +1,19 @@
 [
   {
+    "time": "2-19-2021",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "DevConf.cz",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },{
+    "time": "1-20-2021",
+    "title": "From Dev To DevOps Wizard",
+    "conference": "DevOps Unicorn",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://k8s-course.com"
+  },{
     "time": "1-19-2021",
     "title": "Containerization for Software Developers",
     "conference": "Techlahoma Meetup",
