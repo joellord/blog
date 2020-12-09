@@ -24,6 +24,14 @@
     "slides": "http://ezurl.to/unethical"
   },
   {
+    "time": "2-18-2021",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "Developer Week",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "2-3-2020",
     "title": "From Dev to DevOps Wizard",
     "conference": "NDC Workshops",
@@ -70,6 +78,14 @@
     "location": "The Internets",
     "movie": "",
     "slides": "http://ezurl.to/unethical"
+  },
+  {
+    "time": "12-9-2020",
+    "title": "Containerization for Software Developers",
+    "conference": "Webinale",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
   },
   {
     "time": "11-27-2020",
