@@ -8,6 +8,22 @@
     "slides": "http://ezurl.to/containers"
   },
   {
+    "time": "2-25-2021",
+    "title": "Power-Up With Clouds and Pipelines",
+    "conference": "Confoo",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/pipes-and-clouds"
+  },
+  {
+    "time": "2-24-2021",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "Confoo",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "2-19-2021",
     "title": "Power-Up With Clouds and Pipelines",
     "conference": "DevConf.cz",
@@ -92,7 +108,7 @@
     "title": "Containerization For Software Developers",
     "conference": "CodeMotion Rome",
     "location": "Rome, IT",
-    "movie": "",
+    "movie": "https://drive.google.com/file/d/1mKlzHSwx7eFTdyoIHf1fG1AKMzAx7RUh/view?usp=sharing",
     "slides": "http://ezurl.to/containers"
   },
   {
