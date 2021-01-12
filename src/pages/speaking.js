@@ -69,7 +69,12 @@ const SpeakingPage = () => {
                 <td>{ talk.niceDate }</td>
                 <td>{ talk.title }</td>
                 <td>{ talk.conference }</td>
-                <td>{ talk.location }</td>
+                <td>{ talk.location.substr(0, 4) === "http" ?
+                  <a href={talk.location} target="_blank" rel="noopener noreferrer">{talk.location}</a>
+                :
+                  `${talk.location}`
+                }
+              </td>
                 <td>
 
                 </td>
