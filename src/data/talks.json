@@ -1,5 +1,29 @@
 [
   {
+    "time": "5-20-2021",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "Open Source North",
+    "location": "https://opensourcenorth.com/",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
+    "time": "4-29-2021",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "GIDS Live",
+    "location": "https://wurreka.com/ict/virtual-conference/gids-2021/",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
+    "time": "4-28-2021",
+    "title": "PatternFly Passes with Flying Colours",
+    "conference": "GIDS Live",
+    "location": "https://wurreka.com/ict/virtual-conference/gids-2021/",
+    "movie": "",
+    "slides": "http://ezurl.to/patternfly"
+  },
+  {
     "time": "4-20-2021",
     "title": "Containerization for Software Developers",
     "conference": "iJS London",
@@ -8,12 +32,28 @@
     "slides": "http://ezurl.to/containers"
   },
   {
+    "time": "4-14-2021",
+    "title": "Containers and Kubernetes for Developers",
+    "conference": "NDC Workshops",
+    "location": "https://ndcworkshops.com/",
+    "movie": "",
+    "slides": "http://k8s-course.com"
+  },
+  {
     "time": "3-11-2021",
     "title": "Power-Up With Clouds and Pipelines",
     "conference": "TheCloudFirst.io",
     "location": "http://www.thecloudfirst.io",
     "movie": "",
     "slides": "http://ezurl.to/pipes-and-clouds"
+  },
+  {
+    "time": "3-3-2021",
+    "title": "From Dev To DevOps Wizard",
+    "conference": "DevOps Unicorn",
+    "location": "https://ninebrains.eu/events/from-software-developer-to-devops-wizard/",
+    "movie": "",
+    "slides": "http://k8s-course.com"
   },
   {
     "time": "2-25-2021",
@@ -56,20 +96,12 @@
     "slides": "http://ezurl.to/unethical"
   },
   {
-    "time": "2-3-2020",
-    "title": "From Dev to DevOps Wizard",
-    "conference": "NDC Workshops",
-    "location": "The Internets",
+    "time": "2-13-2021",
+    "title": "PatternFly Passes with Flying Colours",
+    "conference": "CodeGen",
+    "location": "https://codegen2021.azurewebsites.net/",
     "movie": "",
-    "slides": "http://k8s-course.com"
-  },
-  {
-    "time": "1-20-2021",
-    "title": "From Dev To DevOps Wizard",
-    "conference": "DevOps Unicorn",
-    "location": "The Internets",
-    "movie": "",
-    "slides": "http://k8s-course.com"
+    "slides": "http://ezurl.to/patternfly"
   },
   {
     "time": "1-19-2021",
@@ -78,14 +110,6 @@
     "location": "The Internets",
     "movie": "",
     "slides": "http://ezurl.to/containers"
-  },
-  {
-    "time": "12-17-2020",
-    "title": "Hacking JWTs",
-    "conference": "Cyber XM Webinars",
-    "location": "The Internets",
-    "movie": "",
-    "slides": "http://ezurl.to/hacking-jwt"
   },
   {
     "time": "12-16-2020",
@@ -346,8 +370,8 @@
     "title": "Hands-On Intro to Cloud-Native CI/CD with Tekton",
     "conference": "KubeCon EU",
     "location": "The Internets",
-    "movie": "",
-    "slides": ""
+    "movie": "https://www.youtube.com/watch?v=CnVCgMRE4xI",
+    "slides": "https://docs.google.com/presentation/d/1nZZj07ZOQahHDljwj4pz3ld1q8B6s0062t9ZrGaQnaw/edit#slide=id.g8fd742c54b_0_285"
   },
   {
     "time": "8-14-2020",
