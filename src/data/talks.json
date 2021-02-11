@@ -1,5 +1,21 @@
 [
   {
+    "time": "9-29-2021",
+    "title": "Containerization For JS Developers",
+    "conference": "International JavaScript Conference",
+    "location": "New-York, NY, US",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
+    "time": "9-28-2021",
+    "title": "Building CLI Tools With NodeJS",
+    "conference": "International JavaScript Conference",
+    "location": "New-York, NY, US",
+    "movie": "",
+    "slides": "https://ezurl.to/node-cli"
+  },
+  {
     "time": "5-20-2021",
     "title": "NodeJS, ML, K8s and Unethical Face Recognition",
     "conference": "Open Source North",
@@ -38,6 +54,30 @@
     "location": "https://ndcworkshops.com/",
     "movie": "",
     "slides": "http://k8s-course.com"
+  },
+  {
+    "time": "4-12-2021",
+    "title": "Hands On with Tekton Pipelines",
+    "conference": "O'Reilly Live Trainings",
+    "location": "The Internets",
+    "movie": "",
+    "slides": "http://ezurl.to/powerup-tekton"
+  },
+  {
+    "time": "3-28-2021",
+    "title": "A Day in the Life of a Developer Advocate",
+    "conference": "freeCodeCamp OK",
+    "location": "Online",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": "3-25-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "Code Motion Italy",
+    "location": "https://events.codemotion.com/conferences/online/2021/online-tech-conference-italian-edition-spring/",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
   },
   {
     "time": "3-11-2021",
