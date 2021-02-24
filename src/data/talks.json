@@ -24,6 +24,22 @@
     "slides": "http://ezurl.to/unethical"
   },
   {
+    "time": "5-13-2021",
+    "title": "Power-Up with Clouds and (Tekton) Pipelines",
+    "conference": "DevOps Pro Europe",
+    "location": "https://devopspro.lt/",
+    "movie": "",
+    "slides": "http://ezurl.to/pipes-and-clouds"
+  },
+  {
+    "time": "5-11-2021",
+    "title": "Docker and Kubernetes for Software Developers",
+    "conference": "DevOps Pro Europe",
+    "location": "https://devopspro.lt/",
+    "movie": "",
+    "slides": "http://k8s-course.com"
+  },
+  {
     "time": "4-29-2021",
     "title": "NodeJS, ML, K8s and Unethical Face Recognition",
     "conference": "GIDS Live",
@@ -126,6 +142,14 @@
     "location": "http://devconf.cz",
     "movie": "",
     "slides": "http://ezurl.to/unethical"
+  },
+  {
+    "time": "2-18-2021",
+    "title": "Developer Sandbox: Kicking the tires",
+    "conference": "DevNation Tech Talks",
+    "location": "The Internets",
+    "movie": "https://www.youtube.com/watch?v=oDqw8aBGDD8",
+    "slides": ""
   },
   {
     "time": "2-18-2021",
