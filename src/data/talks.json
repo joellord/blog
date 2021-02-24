@@ -80,6 +80,14 @@
     "slides": "http://ezurl.to/powerup-tekton"
   },
   {
+    "time": "3-30-2021",
+    "title": "Containerization for Software Developers",
+    "conference": "OpenSource 101",
+    "location": "https://opensource101.com",
+    "movie": "",
+    "slides": "http://ezurl.to/containers"
+  },
+  {
     "time": "3-28-2021",
     "title": "A Day in the Life of a Developer Advocate",
     "conference": "freeCodeCamp OK",
