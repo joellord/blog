@@ -128,12 +128,20 @@
     "slides": "http://k8s-course.com"
   },
   {
-    "time": "2-25-2021",
+    "time": "2-26-2021",
     "title": "Power-Up With Clouds and Pipelines",
     "conference": "Confoo",
     "location": "http://confoo.ca",
     "movie": "",
     "slides": "http://ezurl.to/pipes-and-clouds"
+  },
+  {
+    "time": "2-25-2021",
+    "title": "Kube Kitchen",
+    "conference": "DevClub.lv",
+    "location": "https://devclub.lv/",
+    "movie": "",
+    "slides": "http://ezurl.to/kube-kitchen"
   },
   {
     "time": "2-24-2021",
