@@ -16,6 +16,14 @@
     "slides": "https://ezurl.to/node-cli"
   },
   {
+    "time": "6-9-2021",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "DevTalks",
+    "location": "https://www.devtalks.ro/",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "5-20-2021",
     "title": "NodeJS, ML, K8s and Unethical Face Recognition",
     "conference": "Open Source North",
