@@ -16,6 +16,14 @@
     "slides": "https://ezurl.to/node-cli"
   },
   {
+    "time": "6-15-2021",
+    "title": "NodeJS, IA, K8s et Reconnaissance Faciale Non Éthique",
+    "conference": "Web à Québec",
+    "location": "Quebec City, QC, CA",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "6-9-2021",
     "title": "NodeJS, ML, K8s and Unethical Face Recognition",
     "conference": "DevTalks",
