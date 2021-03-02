@@ -96,6 +96,14 @@
     "slides": "http://ezurl.to/powerup-tekton"
   },
   {
+    "time": "3-31-2021",
+    "title": "Kubernetes for JS Devs",
+    "conference": "NodeDay",
+    "location": "Online",
+    "movie": "",
+    "slides": "http://ezurl.to/handson-k8s"
+  },
+  {
     "time": "3-30-2021",
     "title": "Containerization for Software Developers",
     "conference": "OpenSource 101",
