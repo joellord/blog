@@ -56,6 +56,14 @@
     "slides": "http://k8s-course.com"
   },
   {
+    "time": "5-4-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "MDC",
+    "location": "https://mndevconf.com",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "4-29-2021",
     "title": "NodeJS, ML, K8s and Unethical Face Recognition",
     "conference": "GIDS Live",
@@ -142,6 +150,14 @@
     "location": "https://www.techlauderdale.org/itpalooza/",
     "movie": "",
     "slides": "http://ezurl.to/unethical"
+  },
+  {
+    "time": "3-22-2021",
+    "title": "Kubernetes for JS Devs",
+    "conference": "DevOps.js",
+    "location": "Online",
+    "movie": "",
+    "slides": "http://ezurl.to/handson-k8s"
   },
   {
     "time": "3-11-2021",
