@@ -32,6 +32,14 @@
     "slides": "http://ezurl.to/unethical"
   },
   {
+    "time": "6-8-2021",
+    "title": "JavaScript Powered Smart Home with (Almost) No Code",
+    "conference": "DevDays",
+    "location": "https://www.devdays.lt/",
+    "movie": "",
+    "slides": "http://ezurl.to/smart-home"
+  },
+  {
     "time": "5-20-2021",
     "title": "NodeJS, ML, K8s and Unethical Face Recognition",
     "conference": "Open Source North",
