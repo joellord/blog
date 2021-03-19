@@ -64,6 +64,14 @@
     "slides": "http://k8s-course.com"
   },
   {
+    "time": "5-10-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "TEQ Nation",
+    "location": "https://conference.teqnation.com/",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "5-4-2021",
     "title": "Node.js, ML, K8s and Unethical Face Recognition",
     "conference": "MDC",
