@@ -96,10 +96,18 @@
     "slides": "http://ezurl.to/patternfly"
   },
   {
+    "time": "4-21-2021",
+    "title": "JavaScript Fullstack Day",
+    "conference": "iJS London",
+    "location": "https://javascript-conference.com/london/",
+    "movie": "",
+    "slides": ""
+  },
+  {
     "time": "4-20-2021",
     "title": "Containerization for Software Developers",
     "conference": "iJS London",
-    "location": "London, UK",
+    "location": "https://javascript-conference.com/london/",
     "movie": "",
     "slides": "http://ezurl.to/containers"
   },
@@ -128,7 +136,7 @@
     "slides": "http://ezurl.to/powerup-tekton"
   },
   {
-    "time": "3-31-2021",
+    "time": "4-1-2021",
     "title": "Kubernetes for JS Devs",
     "conference": "NodeDay",
     "location": "Online",
