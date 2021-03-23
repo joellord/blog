@@ -120,6 +120,14 @@
     "slides": "http://ezurl.to/unethical"
   },
   {
+    "time": "4-15-2021",
+    "title": "NodeJS, ML, K8s and Unethical Face Recognition",
+    "conference": "CincyML",
+    "location": "https://www.meetup.com/Cincinnati-Machine-Learning-Meetup/events/lwnfvryccgbtb/",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "4-14-2021",
     "title": "Containers and Kubernetes for Developers",
     "conference": "NDC Workshops",
