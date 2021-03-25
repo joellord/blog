@@ -152,6 +152,14 @@
     "slides": "http://ezurl.to/powerup-tekton"
   },
   {
+    "time": "4-6-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "FloridaJS",
+    "location": "https://www.meetup.com/floridajs/",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
     "time": "4-1-2021",
     "title": "Kubernetes for JS Devs",
     "conference": "NodeDay",
