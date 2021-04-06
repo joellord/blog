@@ -40,6 +40,14 @@
     "slides": "http://ezurl.to/smart-home"
   },
   {
+    "time": "5-22-2021",
+    "title": "Building CLI Tools with Node.js",
+    "conference": "Dev.Pro JS",
+    "location": "Online",
+    "movie": "",
+    "slides": "http://ezurl.to/cli"
+  },
+  {
     "time": "5-20-2021",
     "title": "NodeJS, ML, K8s and Unethical Face Recognition",
     "conference": "Open Source North",
