@@ -16,6 +16,14 @@
     "slides": "https://ezurl.to/node-cli"
   },
   {
+    "time": "9-27-2021",
+    "title": "Power-Up With Clouds and (Tekton) Pipelines",
+    "conference": "DevOpsCon",
+    "location": "New-York, NY, US",
+    "movie": "",
+    "slides": "https://ezurl.to/handson-tekton"
+  },
+  {
     "time": "6-15-2021",
     "title": "NodeJS, IA, K8s et Reconnaissance Faciale Non Éthique",
     "conference": "Web à Québec",
