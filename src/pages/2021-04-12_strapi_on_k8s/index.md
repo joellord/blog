@@ -1,11 +1,11 @@
 ---
 path: "/blog/post/2021-03-04_rootless_containers"
-date: "2021-04-12_strapi_on_k8s"
+date: "2021-04-12"
 title: "Containerize and deploy Strapi applications on Kubernetes and Red Hat OpenShift"
 summary: "Strapi is the leading open-source headless content management system (CMS). It’s 100% JavaScript, fully customizable, and takes a developer-first approach. In this post, you will see how to deploy your Strapi CMS in a Kubernetes cluster."
 abstract: "Strapi is the leading open-source headless content management system (CMS). It’s 100% JavaScript, fully customizable, and takes a developer-first approach. In this post, you will see how to deploy your Strapi CMS in a Kubernetes cluster."
 author: "Joel Lord"
-formattedDate: "April 10th, 2021"
+formattedDate: "April 12, 2021"
 keywords: ["strapi", "cms", "kubernetes"]
 banner: "shelf"
 originalSource: "Red Hat Developers Blogs"
