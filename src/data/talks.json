@@ -96,6 +96,14 @@
     "slides": "http://ezurl.to/unethical"
   },
   {
+    "time": "5-5-2021",
+    "title": "Hands-On Intro to Tekton Pipelines",
+    "conference": "NDC Workshops",
+    "location": "https://ndcworkshops.com/slot/hands-on-intro-to-tekton-pipelines",
+    "movie": "",
+    "slides": "http://ezurl.to/powerup-tekton"
+  },
+  {
     "time": "5-4-2021",
     "title": "Node.js, ML, K8s and Unethical Face Recognition",
     "conference": "MDC",
