@@ -44,7 +44,7 @@ The command to start the container should look like this:
 
 ```bash
 docker run --rm -d --name strapi-db -v $(pwd)/data:/var/lib/mysql:z --network=strapi -e MYSQL_DATABASE=strapi -e MYSQL_USER=strapi -e MYSQL_PASSWORD=strapi -e MYSQL_ROOT_PASSWORD=strapi-admin mysql:5.7
-
+```
 
 Note that we use the _--network_ parameter to connect the database container to the network we created earlier.
 
