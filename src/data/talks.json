@@ -48,14 +48,6 @@
     "slides": "http://ezurl.to/unethical"
   },
   {
-    "time": "6-9-2021",
-    "title": "JavaScript Powered Smart Home with (Almost) No Code",
-    "conference": "OpenJS World",
-    "location": "https://www.openjsf.org",
-    "movie": "",
-    "slides": "http://ezurl.to/smart-home"
-  },
-  {
     "time": "6-8-2021",
     "title": "JavaScript Powered Smart Home with (Almost) No Code",
     "conference": "DevDays",
@@ -64,12 +56,12 @@
     "slides": "http://ezurl.to/smart-home"
   },
   {
-    "time": "5-22-2021",
-    "title": "Building CLI Tools with Node.js",
-    "conference": "Dev.Pro JS",
-    "location": "Online",
+    "time": "6-2-2021",
+    "title": "JavaScript Powered Smart Home with (Almost) No Code",
+    "conference": "OpenJS World",
+    "location": "https://www.openjsf.org",
     "movie": "",
-    "slides": "http://ezurl.to/cli"
+    "slides": "http://ezurl.to/smart-home"
   },
   {
     "time": "5-20-2021",
@@ -78,22 +70,6 @@
     "location": "https://opensourcenorth.com/",
     "movie": "",
     "slides": "http://ezurl.to/unethical"
-  },
-  {
-    "time": "5-13-2021",
-    "title": "Power-Up with Clouds and (Tekton) Pipelines",
-    "conference": "DevOps Pro Europe",
-    "location": "https://devopspro.lt/",
-    "movie": "",
-    "slides": "http://ezurl.to/pipes-and-clouds"
-  },
-  {
-    "time": "5-11-2021",
-    "title": "Docker and Kubernetes for Software Developers",
-    "conference": "DevOps Pro Europe",
-    "location": "https://devopspro.lt/",
-    "movie": "",
-    "slides": "http://k8s-course.com"
   },
   {
     "time": "5-10-2021",
