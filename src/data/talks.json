@@ -1,5 +1,13 @@
 [
   {
+    "time": "10-25-2021",
+    "title": "JavaScript Fullstack Day",
+    "conference": "iJS Munich",
+    "location": "https://javascript-conference.com/munich/",
+    "movie": "",
+    "slides": ""
+  },
+  {
     "time": "9-29-2021",
     "title": "Containerization For JS Developers",
     "conference": "International JavaScript Conference",
