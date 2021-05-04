@@ -32,6 +32,14 @@
     "slides": "https://ezurl.to/handson-tekton"
   },
   {
+    "time": "6-16-2021",
+    "title": "Building CLI Tools With NodeJS",
+    "conference": "Columbus JS",
+    "location": "https://columbusjs.org/",
+    "movie": "",
+    "slides": "https://ezurl.to/node-cli"
+  },
+  {
     "time": "6-15-2021",
     "title": "NodeJS, IA, K8s et Reconnaissance Faciale Non Éthique",
     "conference": "Web à Québec",
