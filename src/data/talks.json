@@ -35,7 +35,7 @@
     "time": "9-24-2021",
     "title": "Node.js, ML, K8s and Unethical Face Recognition",
     "conference": "Scenic City Summit",
-    "location": "Chattanooga, TN, US",
+    "location": "https://sceniccitysummit.com/",
     "movie": "",
     "slides": "https://ezurl.to/unethical"
   },
@@ -43,7 +43,7 @@
     "time": "9-24-2021",
     "title": "Power-Up With Clouds and (Tekton) Pipelines",
     "conference": "Scenic City Summit",
-    "location": "Chattanooga, TN, US",
+    "location": "https://sceniccitysummit.com/",
     "movie": "",
     "slides": "https://ezurl.to/handson-tekton"
   },
