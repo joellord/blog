@@ -1,5 +1,13 @@
 [
   {
+    "time": "10-26-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "iJS Munich",
+    "location": "https://javascript-conference.com/munich/",
+    "movie": "",
+    "slides": ""
+  },
+  {
     "time": "10-25-2021",
     "title": "JavaScript Fullstack Day",
     "conference": "iJS Munich",
@@ -54,6 +62,22 @@
     "location": "https://sceniccitysummit.com/",
     "movie": "",
     "slides": "https://ezurl.to/handson-tekton"
+  },
+  {
+    "time": "8-19-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "CodePaLOUsa",
+    "location": "https://www.codepalousa.com/",
+    "movie": "",
+    "slides": "http://ezurl.to/unethical"
+  },
+  {
+    "time": "8-18-2021",
+    "title": "Hands-On Intro to Tekton Pipelines",
+    "conference": "CodePaLOUsa",
+    "location": "https://www.codepalousa.com/",
+    "movie": "",
+    "slides": "http://ezurl.to/powerup-tekton"
   },
   {
     "time": "6-16-2021",
