@@ -8,6 +8,14 @@
     "slides": ""
   },
   {
+    "time": "10-9-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "Central Wisconsin IT Conf",
+    "location": "https://cwitc.org/",
+    "movie": "",
+    "slides": "https://ezurl.to/unethical"
+  },
+  {
     "time": "9-29-2021",
     "title": "Containerization For JS Developers",
     "conference": "International JavaScript Conference",
