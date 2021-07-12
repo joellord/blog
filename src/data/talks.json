@@ -64,6 +64,38 @@
     "slides": "https://ezurl.to/handson-tekton"
   },
   {
+    "time": "9-24-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "Scenic City Summit",
+    "location": "https://sceniccitysummit.com/",
+    "movie": "",
+    "slides": "https://ezurl.to/unethical"
+  },
+  {
+    "time": "9-24-2021",
+    "title": "Containerization for Software Developers",
+    "conference": "Prairie.Code()",
+    "location": "Des Moines, IA, US",
+    "movie": "",
+    "slides": "https://ezurl.to/containers"
+  },
+  {
+    "time": "9-23-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "Prairie.Code()",
+    "location": "Des Moines, IA, US",
+    "movie": "",
+    "slides": "https://ezurl.to/unethical"
+  },
+  {
+    "time": "9-22-2021",
+    "title": "Docker and Kubernetes for Software Developers",
+    "conference": "Prairie.Code()",
+    "location": "Des Moines, IA, US",
+    "movie": "",
+    "slides": "https://ezurl.to/handson-k8s"
+  },
+  {
     "time": "8-19-2021",
     "title": "Node.js, ML, K8s and Unethical Face Recognition",
     "conference": "CodePaLOUsa",
