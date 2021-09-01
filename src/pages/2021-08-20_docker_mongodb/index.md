@@ -1,13 +1,13 @@
 ---
-path: "/blog/post/2021-05-04_fullstack_js_1"
-date: "2021-05-04"
-title: "Publishing Full Stack JavaScript Applications to the OpenShift Developer Sandbox (p.1)"
-summary: "In this series of blog posts, you will learn how to deploy a full-stack JavaScript application in an OpenShift cluster. Starting from a source code, you will take an application that runs locally and deploy it in the Developer Sandbox. "
-abstract: "In this series of blog posts, you will learn how to deploy a full-stack JavaScript application in an OpenShift cluster. Starting from a source code, you will take an application that runs locally and deploy it in the Developer Sandbox. "
+path: "/blog/post/2021-08-20_docker_mongodb"
+date: "2021-08-20"
+title: "Docker and MongoDB"
+summary: "Many software developers have adopted containers as part of their day-to-day workflow. These containers can help developers by running an application in an isolated and consistent environment. In this article, you will learn about containers and how you can use them when developing applications using MongoDB."
+abstract: "Many software developers have adopted containers as part of their day-to-day workflow. These containers can help developers by running an application in an isolated and consistent environment. In this article, you will learn about containers and how you can use them when developing applications using MongoDB."
 author: "Joel Lord"
-formattedDate: "May 4th, 2021"
-keywords: ["openshift", "javascript", "fullstack"]
-banner: "cluster"
+formattedDate: "August 20th, 2021"
+keywords: ["mongodb", "docker", "containers"]
+banner: "squid_wall"
 originalSource: "MongoDB.com Website"
 originalUrl: "https://www.mongodb.com/compatibility/docker"
 ---
