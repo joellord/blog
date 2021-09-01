@@ -1,5 +1,13 @@
 [
   {
+    "time": "11-8-2021",
+    "title": "IoT, JavaScript and Beer Brewing: Cheers to that!",
+    "conference": "Connect.Tech",
+    "location": "Atlanta, GA, US",
+    "movie": "",
+    "slides": ""
+  },
+  {
     "time": "10-26-2021",
     "title": "Node.js, ML, K8s and Unethical Face Recognition",
     "conference": "iJS Munich",
@@ -14,6 +22,23 @@
     "location": "Munich, DE",
     "movie": "",
     "slides": ""
+  },
+  {
+    "time": "10-20-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "TechBash",
+    "location": "Pocono, PA, US",
+    "movie": "",
+    "slides": "",
+    "cancelled": true
+  },
+  {
+    "time": "10-19-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "NodeConf Remote",
+    "location": "https://nodeconfremote.com",
+    "movie": "",
+    "slides": "https://ezurl.to/unethical"
   },
   {
     "time": "10-9-2021",
@@ -49,14 +74,6 @@
   },
   {
     "time": "9-24-2021",
-    "title": "Node.js, ML, K8s and Unethical Face Recognition",
-    "conference": "Scenic City Summit",
-    "location": "https://sceniccitysummit.com/",
-    "movie": "",
-    "slides": "https://ezurl.to/unethical"
-  },
-  {
-    "time": "9-24-2021",
     "title": "Power-Up With Clouds and (Tekton) Pipelines",
     "conference": "Scenic City Summit",
     "location": "https://sceniccitysummit.com/",
@@ -77,7 +94,8 @@
     "conference": "Prairie.Code()",
     "location": "Des Moines, IA, US",
     "movie": "",
-    "slides": "https://ezurl.to/containers"
+    "slides": "https://ezurl.to/containers",
+    "cancelled": true
   },
   {
     "time": "9-23-2021",
@@ -85,7 +103,8 @@
     "conference": "Prairie.Code()",
     "location": "Des Moines, IA, US",
     "movie": "",
-    "slides": "https://ezurl.to/unethical"
+    "slides": "https://ezurl.to/unethical",
+    "cancelled": true
   },
   {
     "time": "9-22-2021",
@@ -93,7 +112,26 @@
     "conference": "Prairie.Code()",
     "location": "Des Moines, IA, US",
     "movie": "",
-    "slides": "https://ezurl.to/handson-k8s"
+    "slides": "https://ezurl.to/handson-k8s",
+    "cancelled": true
+  },
+  {
+    "time": "9-15-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "KCDC",
+    "location": "Kansas City, MO, US",
+    "movie": "",
+    "cancelled": true,
+    "slides": "https://ezurl.to/unethical"
+  },
+  {
+    "time": "9-15-2021",
+    "title": "From Caesar Cipher to Quantum Cryptography",
+    "conference": "KCDC",
+    "location": "Kansas City, MO, US",
+    "movie": "",
+    "cancelled": true,
+    "slides": "https://ezurl.to/smart-home"
   },
   {
     "time": "8-19-2021",
