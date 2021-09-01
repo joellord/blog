@@ -1,5 +1,5 @@
 ---
-path: "/blog/post/2021-08-31-in-memory-database"
+path: "/blog/post/2021-08-31_in_memory_database"
 date: "2021-08-31"
 title: "In-Memory Databases Explained"
 summary: "In-memory databases can be much faster than traditional databases, but is that a good enough reason to use them for your application? In this article, we will answer the question, “What is an in-memory database?” and explore how it compares with traditional databases."
