@@ -9,7 +9,7 @@ formattedDate: "August 31st, 2021"
 keywords: ["mongodb", "in-memory", "database"]
 banner: "shelf"
 originalSource: "MongoDB.com Website"
-originalUrl: https://www.mongodb.com/databases/in-memory-database"
+originalUrl: "https://www.mongodb.com/databases/in-memory-database"
 ---
 In-memory databases can be much faster than traditional databases, but is that a good enough reason to use them for your application? In this article, we will answer the question, “What is an in-memory database?” and explore how it compares with traditional databases.
 
