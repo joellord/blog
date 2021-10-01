@@ -41,26 +41,10 @@ While blockchains can be considered a database, a database is typically not a bl
 
 |  | Blockchain | Databases |
 | --- | --- | --- |
-| ![data integrity icon](https://webimages.mongodb.com/_com_assets/cms/ktugc66zn9945e3o5-image3.png?auto=format%252Ccompress)
-
-Data Integrity
-
- | The blockchain structure makes it virtually impossible for someone to change the data without breaking the chain. | A malicious actor can potentially alter data if necessary measures are not taken. |
-| ![transactions icon](https://webimages.mongodb.com/_com_assets/cms/ktugaqhm1w5emxc8s-image2.png?auto=format%252Ccompress)
-
-Transactions
-
- | Data can only be read or added to the blockchain. | Data can be created, read, updated, or deleted (CRUD operations). |
-| ![querying performance icon](https://webimages.mongodb.com/_com_assets/cms/ktug8nb17phwa14zl-image11.png?auto=format%252Ccompress)
-
-Querying Performance
-
- | The verification methods to ensure data integrity can slow down the querying and general performance of a blockchain. | Databases provide blazing-fast access to the data. |
-| ![structure icon](https://webimages.mongodb.com/_com_assets/cms/ktug9y9zwm9e58hkf-image9.png?auto=format%252Ccompress)
-
-Structure
-
- | Blockchains can be fully decentralized and not rely on any central authority. | Databases are centrally managed, and an administrator owns and controls the data. |
+| ![data integrity icon](https://webimages.mongodb.com/_com_assets/cms/ktugc66zn9945e3o5-image3.png?auto=format%252Ccompress) Data Integrity | The blockchain structure makes it virtually impossible for someone to change the data without breaking the chain. | A malicious actor can potentially alter data if necessary measures are not taken. |
+| ![transactions icon](https://webimages.mongodb.com/_com_assets/cms/ktugaqhm1w5emxc8s-image2.png?auto=format%252Ccompress) Transactions | Data can only be read or added to the blockchain. | Data can be created, read, updated, or deleted (CRUD operations). |
+| ![querying performance icon](https://webimages.mongodb.com/_com_assets/cms/ktug8nb17phwa14zl-image11.png?auto=format%252Ccompress) Querying Performance | The verification methods to ensure data integrity can slow down the querying and general performance of a blockchain. | Databases provide blazing-fast access to the data. |
+| ![structure icon](https://webimages.mongodb.com/_com_assets/cms/ktug9y9zwm9e58hkf-image9.png?auto=format%252Ccompress) Structure | Blockchains can be fully decentralized and not rely on any central authority. | Databases are centrally managed, and an administrator owns and controls the data. |
 
 Even though databases and blockchains are typically seen as two different items, it is possible to create a hybrid. Those hybrids are called blockchain databases and try to use the best of both worlds to create a secure and immutable chain of easily queryable blocks that offers excellent performance.
 
