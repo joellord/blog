@@ -1,18 +1,51 @@
 [
   {
-    "time": "12-1-2021",
-    "title": "IoT, JavaScript and Beer Brewing: Cheers to that!",
-    "conference": "CodeMotion Online",
-    "location": "https://www.codemotion.com/",
+    "time": "4-28-2022",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "iJS London",
+    "location": "London, UK",
     "movie": "",
-    "slides": ""
-  },{
-    "time": "11-8-2021",
-    "title": "IoT, JavaScript and Beer Brewing: Cheers to that!",
+    "slides": "https://ezurl.to/cheers"
+  },
+  {
+    "time": "4-25-2022",
+    "title": "Building CLI Tools With Node.js",
+    "conference": "iJS London",
+    "location": "London, UK",
+    "movie": "",
+    "slides": "https://ezurl.to/node-cli"
+  },
+  {
+    "time": "2-25-2022",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "Confoo",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": "https://ezurl.to/cheers"
+  },
+  {
+    "time": "2-23-2022",
+    "title": "Building CLI Tools With Node.js",
+    "conference": "Confoo",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": "https://ezurl.to/node-cli"
+  },
+  {
+    "time": "12-2-2021",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "CodeMotion",
+    "location": "https://codemotion.com",
+    "movie": "",
+    "slides": "https://ezurl.to/cheers"
+  },
+  {
+    "time": "11-10-2021",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
     "conference": "Connect.Tech",
     "location": "Atlanta, GA, US",
     "movie": "",
-    "slides": ""
+    "slides": "https://ezurl.to/cheers"
   },
   {
     "time": "10-26-2021",
@@ -20,7 +53,7 @@
     "conference": "iJS Munich",
     "location": "Munich, DE",
     "movie": "",
-    "slides": ""
+    "slides": "https://ezurl.to/unethical"
   },
   {
     "time": "10-25-2021",
@@ -139,6 +172,22 @@
     "movie": "",
     "cancelled": true,
     "slides": "https://ezurl.to/smart-home"
+  },
+  {
+    "time": "9-16-2021",
+    "title": "Node.js, ML, K8s and Unethical Face Recognition",
+    "conference": "KCDC",
+    "location": "Kansas City, MO, US",
+    "movie": "",
+    "slides": "https://ezurl.to/unethical"
+  },
+  {
+    "time": "9-15-2021",
+    "title": "From Caesar Cipher to Quantum Cryptography",
+    "conference": "KCDC",
+    "location": "Kansas City, MO, US",
+    "movie": "",
+    "slides": "https://ezurl.to/crypto"
   },
   {
     "time": "8-19-2021",
