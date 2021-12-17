@@ -56,7 +56,7 @@ export default function Blog({ data }) {
                 {"{"}<br/>
                 &nbsp;&nbsp;  name: "Joel Lord",<br/>
                 &nbsp;&nbsp;  job: "Developer Advocate",<br/>
-                &nbsp;&nbsp;  employer: "Red Hat OpenShift",<br/>
+                &nbsp;&nbsp;  employer: "MongoDB",<br/>
                 &nbsp;&nbsp;  tabsOrSpaces: "spaces",<br/>
                 &nbsp;&nbsp;  keywords: [<br/>
                 &nbsp;&nbsp;&nbsp;&nbsp;    "javascript junkie",<br/>
