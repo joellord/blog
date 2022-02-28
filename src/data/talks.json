@@ -1,5 +1,29 @@
 [
   {
+    "time": "6-23-2022",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "NDC Melbourne",
+    "location": "Melbourne, AU",
+    "movie": "",
+    "slides": "https://ezurl.to/cheers"
+  },
+  {
+    "time": "6-21-2022",
+    "title": "Data Metamorphosis with KafkaJS",
+    "conference": "NDC Melbourne",
+    "location": "Melbourne, AU",
+    "movie": "",
+    "slides": "https://ezurl.to/metamorphosis"
+  },
+  {
+    "time": "5-6-2022",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "Stir Trek",
+    "location": "Columbus, OH, US",
+    "movie": "",
+    "slides": "https://ezurl.to/cheers"
+  },
+  {
     "time": "4-28-2022",
     "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
     "conference": "iJS London",
