@@ -1,5 +1,13 @@
 [
   {
+    "time": "7-29-2022",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "JavaScript & Friends",
+    "location": "Columbus, OH, US",
+    "movie": "",
+    "slides": "https://ezurl.to/cheers"
+  },
+  {
     "time": "6-23-2022",
     "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
     "conference": "NDC Melbourne",
