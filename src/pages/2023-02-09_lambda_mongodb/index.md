@@ -1,7 +1,7 @@
 ---
 path: "/blog/post/2023-02-09_lambda_mongodb"
 date: "2023-02-09"
-title: "Morphia Java ODM for MongoDB"
+title: "Using the Node.js MongoDB Driver with AWS Lambda"
 summary: "Writing a serverless function using JavaScript is straightforward and similar to writing a route handler in Express.js."
 abstract: "Writing a serverless function using JavaScript is straightforward and similar to writing a route handler in Express.js."
 author: "Joel Lord"
