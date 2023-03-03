@@ -1,11 +1,183 @@
 [
   {
-    "time": "9-27-2022",
+    "time": "5-26-2023",
+    "title": "Help! I Need to UnSQLize My Application",
+    "conference": "PyCon Italia",
+    "location": "Florence, IT",
+    "movie": "",
+    "slides": "https://mdb.link/unsqlize"
+  },{
+    "time": "4-26-2023",
+    "title": "Remix: Next Best Thing Or Yet Another Framework?",
+    "conference": "International Javascript Conf",
+    "location": "London, UK",
+    "movie": "",
+    "slides": "https://mdb.link/encryption"
+  },{
+    "time": "4-25-2023",
+    "title": "JavaScript Full Stack Day",
+    "conference": "International Javascript Conf",
+    "location": "London, UK",
+    "movie": "",
+    "slides": "https://mdb.link/fsday"
+  },{
+    "time": "4-19-2023",
+    "title": "A Gentle Introduction To Data Encryption",
+    "conference": "WebExpo",
+    "location": "Prague, CZ",
+    "movie": "",
+    "slides": "https://mdb.link/encryption"
+  },{
+    "time": "3-25-2023",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "Orlando Code Camp",
+    "location": "Orlando, FL, US",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },
+  {
+    "time": "3-10-2023",
+    "title": "Your Job Doesn't Start (Or End) With Your Talk",
+    "conference": "DevRelCon",
+    "location": "Yokohama, JP",
+    "movie": "",
+    "slides": "https://mdb.link/speaker-job"
+  },{
+    "time": "2-23-2023",
+    "title": "Your JavaScript Is So 2015",
+    "conference": "Confoo",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },{
+    "time": "2-22-2023",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "Confoo",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },{
+    "time": "2-21-2023",
+    "title": "Serverless Application Development with MongoDB Atlas (FR)",
+    "conference": "Confoo",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },{
+    "time": "2-20-2023",
+    "title": "Serverless Application Development with MongoDB Atlas",
+    "conference": "Confoo",
+    "location": "Montreal, QC, CA",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },{
+    "time": "2-14-2023",
+    "title": "Learn to MERN",
+    "conference": "PHP UK",
+    "location": "London, UK",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },{
+    "time": "1-15-2023",
+    "title": "Learn to MERN",
+    "conference": "THAT Conference TX",
+    "location": "Round Rock, TX, US",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },{
+    "time": "1-10-2023",
+    "title": "Learn to MERN",
+    "conference": "CodeMash",
+    "location": "Sandusky, OH, US",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },{
+    "time": "1-11-2023",
+    "title": "Help! I Need to UnSQLize My Application",
+    "conference": "CodeMash",
+    "location": "Sandusky, OH, US",
+    "movie": "",
+    "slides": "https://mdb.link/unsqlize"
+  },
+  {
+    "time": "11-29-2022",
+    "title": "What's New In MongoDB",
+    "conference": "Prairie Dev Con",
+    "location": "Calgary, AL, CA",
+    "movie": "",
+    "slides": "https://ezurl.to/whats-new"
+  },
+  {
+    "time": "11-28-2022",
+    "title": "Data Metamorphosis with KafkaJS",
+    "conference": "Prairie Dev Con",
+    "location": "Calgary, AL, CA",
+    "movie": "",
+    "slides": "https://ezurl.to/kafka"
+  },
+  {
+    "time": "11-9-2022",
+    "title": "Data Metamorphosis with KafkaJS",
+    "conference": "Connect.Tech",
+    "location": "Atlanta, GA, US",
+    "movie": "",
+    "slides": "https://ezurl.to/kafka"
+  },
+  {
+    "time": "11-1-2022",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "All Things Open",
+    "location": "Raleigh, NC, US",
+    "movie": "",
+    "slides": "https://ezurl.to/cheers"
+  },
+  {
+    "time": "10-26-2022",
+    "title": "JavaScript Fullstack Day",
+    "conference": "iJS Munich",
+    "location": "Munich, DE",
+    "movie": "",
+    "slides": ""
+  },
+  {
+    "time": "10-12-2022",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "Devoxx BE",
+    "location": "Antwerp, BE",
+    "movie": "",
+    "slides": "https://ezurl.to/cheers"
+  },
+  {
+    "time": "10-4-2022",
+    "title": "What's New In MongoDB",
+    "conference": "Prairie Dev Con",
+    "location": "Regina, SK, CA",
+    "movie": "",
+    "slides": "https://ezurl.to/whats-new"
+  },
+  {
+    "time": "10-3-2022",
+    "title": "Data Metamorphosis with KafkaJS",
+    "conference": "Prairie Dev Con",
+    "location": "Regina, SK, CA",
+    "movie": "",
+    "slides": "https://ezurl.to/kafka"
+  },
+  {
+    "time": "9-28-2022",
     "title": "MERN Stack Application Deployment in Kubernetes",
     "conference": "iJS New-York",
     "location": "New-York, NY, US",
     "movie": "",
     "slides": "https://ezurl.to/mern-k8s"
+  },
+  {
+    "time": "9-27-2022",
+    "title": "IoT, JavaScript, and Beer Brewing: Cheers To That!",
+    "conference": "iJS New-York",
+    "location": "New-York, NY, US",
+    "movie": "",
+    "slides": "https://ezurl.to/cheers"
   },
   {
     "time": "8-18-2022",
@@ -1118,7 +1290,7 @@
     "location": "Fort Lauderdale, FL",
     "movie": "",
     "slides": "http://ezurl.to/browser-api"
-  }, 
+  },
   {
     "time": "2-27-2020",
     "title": "Containers for Software Developers",
@@ -1126,7 +1298,7 @@
     "location": "Montreal, QC",
     "movie": "",
     "slides": "http://ezurl.to/containers"
-  }, 
+  },
   {
     "time": "2-27-2020",
     "title": "Kubernetes Kitchen",
@@ -1182,7 +1354,7 @@
     "location": "Ottawa, ON",
     "movie": "",
     "slides": "http://ezurl.to/containers"
-  }, 
+  },
   {
     "time": "12-10-2019",
     "title": "Build CLI tools with NodeJs",
@@ -1190,7 +1362,7 @@
     "location": "Montreal, QC",
     "movie": "",
     "slides": "http://ezurl.to/nodecli"
-  }, 
+  },
   {
     "time": "12-9-2019",
     "title": "Build CLI tools with NodeJs",
@@ -1198,7 +1370,7 @@
     "location": "Montreal, QC",
     "movie": "",
     "slides": "http://ezurl.to/nodecli"
-  }, 
+  },
   {
     "time": "11-23-2019",
     "title": "Kubernetes Kitchen",
@@ -1206,7 +1378,7 @@
     "location": "Boston, MA",
     "movie": "",
     "slides": "http://ezurl.to/kube-kitchen"
-  }, 
+  },
   {
     "time": "11-23-2019",
     "title": "Containers for Software Developers",
@@ -1214,7 +1386,7 @@
     "location": "Boston, MA",
     "movie": "",
     "slides": "http://ezurl.to/containers"
-  }, 
+  },
   {
     "time": "11-6-2019",
     "title": "From Caesar Cipher to Quantum Cryptography",
@@ -1222,7 +1394,7 @@
     "location": "Malmö, SE",
     "movie": "https://www.youtube.com/watch?v=V7Pm0vCTJVo",
     "slides": "http://ezurl.to/crypto"
-  }, 
+  },
   {
     "time": "10-25-2019",
     "title": "From Caesar Cipher to Quantum Cryptography",
@@ -1238,7 +1410,7 @@
     "location": "Munich, DE",
     "movie": "http://youtu.be/zaqqUl3UNvw",
     "slides": "http://ezurl.to/browser-api"
-  },  
+  },
   {
     "time": "10-23-2019",
     "title": "Hacking JWTs",
@@ -1246,7 +1418,7 @@
     "location": "Munich, DE",
     "movie": "",
     "slides": "http://ezurl.to/hackingjwt"
-  },  
+  },
   {
     "time": "10-18-2019",
     "title": "O-What? An Intro To OAuth For Developers",
@@ -1254,7 +1426,7 @@
     "location": "Atlanta, GA, US",
     "movie": "",
     "slides": "https://ezurl.to/idontcare"
-  },  
+  },
   {
     "time": "10-17-2019",
     "title": "WTH is a JWT",
@@ -1262,7 +1434,7 @@
     "location": "Atlanta, GA, US",
     "movie": "",
     "slides": "http://ezurl.to/hackingjwt"
-  },  
+  },
   {
     "time": "10-12-2019",
     "title": "I Don't Care About Security (And Neither Should You)",
@@ -1270,7 +1442,7 @@
     "location": "Stevens Point, WI, US",
     "movie": "",
     "slides": "https://ezurl.to/idontcare"
-  },  
+  },
   {
     "time": "10-7-2019",
     "title": "Je me fiche de la securite (vous devriez aussi)",
@@ -1278,7 +1450,7 @@
     "location": "Saguenay, QC, CA",
     "movie": "",
     "slides": "https://ezurl.to/idontcare"
-  }, 
+  },
   {
     "time": "10-5-2019",
     "title": "From Caesar Cipher to Quantum Cryptography",
@@ -1286,7 +1458,7 @@
     "location": "Columbus, OH, US",
     "movie": "",
     "slides": "http://ezurl.to/crypto"
-  },  
+  },
   {
     "time": "09-28-2019",
     "title": "Hacking JWTs",
@@ -1302,7 +1474,7 @@
     "location": "Des Moines, IA, US",
     "movie": "",
     "slides": "https://ezurl.to/idontcare"
-  },  
+  },
   {
     "time": "09-12-2019",
     "title": "Hacking JWTs",
@@ -1310,7 +1482,7 @@
     "location": "Des Moines, IA, US",
     "movie": "",
     "slides": "http://ezurl.to/hackingjwt"
-  },  
+  },
   {
     "time": "09-11-2019",
     "title": "From Zero To App: A React Workshop",
@@ -1318,7 +1490,7 @@
     "location": "Des Moines, IA, US",
     "movie": "",
     "slides": ""
-  },  
+  },
   {
     "time": "09-6-2019",
     "title": "I Don't Care About Security (And Neither Should You)",
@@ -1326,7 +1498,7 @@
     "location": "Nashville, TN, US",
     "movie": "",
     "slides": "https://ezurl.to/idontcare"
-  },  
+  },
   {
     "time": "08-21-2019",
     "title": "From Caesar Cipher to Quantum Cryptography",
@@ -1334,7 +1506,7 @@
     "location": "Fort Lauderdale, FL, US",
     "movie": "",
     "slides": "http://ezurl.to/crypto"
-  },  
+  },
   {
     "time": "08-15-2019",
     "title": "Post-Burnout Thoughts",
@@ -1342,7 +1514,7 @@
     "location": "Lincoln, NE, US",
     "movie": "",
     "slides": ""
-  }, 
+  },
   {
     "time": "08-14-2019",
     "title": "From Zero to App: A React Workshop",
@@ -1366,7 +1538,7 @@
     "location": "Baltimore, MD, US",
     "movie": "",
     "slides": "http://ezurl.to/crypto"
-  },  
+  },
   {
     "time": "07-20-2019",
     "title": "I Don't Care About Security (And Neither Should You)",
