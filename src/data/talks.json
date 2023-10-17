@@ -1,11 +1,60 @@
 [
   {
+    "time": "7-20-2023",
+    "title": "A Gentle Introduction To Data Encryption",
+    "conference": "Nebraska.Code()",
+    "location": "Lincoln, NE, US",
+    "movie": "",
+    "slides": "https://mdb.link/encryption"
+  },{
+    "time": "7-19-2023",
+    "title": "Learn to MERN",
+    "conference": "Nebraska.Code()",
+    "location": "Lincoln, NE, US",
+    "movie": "",
+    "slides": "https://mdb.link/learn-to-mern"
+  },{
+    "time": "6-22-2023",
+    "title": "A Gentle Introduction To Data Encryption",
+    "conference": "KCDC",
+    "location": "Kansas City, MO, US",
+    "movie": "",
+    "slides": "https://mdb.link/encryption"
+  },{
+    "time": "6-13-2023",
+    "title": "Turbocharge Your CSV Files With MongoDB And Redis",
+    "conference": "Prairie Dev Con",
+    "location": "Winnipeg, MB, CA",
+    "movie": "",
+    "slides": "https://mdb.link/csv"
+  },{
+    "time": "6-12-2023",
+    "title": "Moving From Relational To Documents: Changing Your Mindset",
+    "conference": "Prairie Dev Con",
+    "location": "Winnipeg, MB, CA",
+    "movie": "",
+    "slides": "https://mdb.link/mindset"
+  },{
+    "time": "6-2-2023",
+    "title": "RESTing on the Shoulders of Serverless Giants",
+    "conference": "Scenic City Summit",
+    "location": "Chattanooga, TN, US",
+    "movie": "",
+    "slides": "https://mdb.link/resting"
+  },{
     "time": "5-26-2023",
     "title": "Help! I Need to UnSQLize My Application",
     "conference": "PyCon Italia",
     "location": "Florence, IT",
     "movie": "",
     "slides": "https://mdb.link/unsqlize"
+  },{
+    "time": "5-5-2023",
+    "title": "Moving From Relational To Documents: Changing Your Mindset",
+    "conference": "Stir Trek",
+    "location": "Columbus, OH, US",
+    "movie": "",
+    "slides": "https://mdb.link/mindset"
   },{
     "time": "4-26-2023",
     "title": "Remix: Next Best Thing Or Yet Another Framework?",
